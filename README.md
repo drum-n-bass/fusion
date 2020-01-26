@@ -3,10 +3,20 @@ Fusion
 
 > Svg Icons for the Cryptospace.
 
-You can tweak/adjust the css attributes: stroke-width and stroke to finetune.
-There is no ready-to-use implementation for the svg files yet.
+Fusion is a growing open source crypto related Icon Set.
 
-Svg naming convention is : Coinmarketcap format ( [symbol]_[cmcId].svg )
+You can tweak/adjust the css attributes: stroke-width and stroke to finetune.
+
+
+> Svg naming convetion
+
+Coinmarketcap format : [symbol] + _ + [cmcId] + .svg
+
+
+> Implementation with React / Spritesheet 
+
+There is no implementation yet but i am working on that.
+
 
 
 
