@@ -68,7 +68,6 @@ Roadmap / Things to expect
 - social media icons
 - interface icons
 - other relevant usefull crypto related icons 
-- ready to use implementations
 
 
 
@@ -78,20 +77,11 @@ You can help!
 Please consider support this open source project on Gitcoin Grands / a direct donation [here](https://fusion.li/donate).
 
 
-
-
 File naming convention
 ----
 
 I go with the Coinmarketcap format's : [symbol] + _ + [cmcId] + .svg
 Example : ETH_1027.svg or XRP_52
-
-
-
-Ready-to-use Implementation
-----
-
-There is no implementation yet but i am working on that. Simply download the icons and use it however and wherever you want :)
 
 
 
