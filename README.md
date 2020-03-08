@@ -102,7 +102,7 @@ After building copy the `icons` folder to your React Application
 
 then you can import them as Component:
 
-```
+```tsx
 import { Add1 } from "./icons/interface"
 
 const ReactFunction = () => (
@@ -112,7 +112,7 @@ const ReactFunction = () => (
 
 import all as bundle:
 
-```
+```tsx
 import Svg from "./icons"
 
 const ReactFunction = () => (
