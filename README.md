@@ -1,4 +1,4 @@
-Fusion 
+Fusion
 ======
 
 Fusion is an open source Line-Icon-Set what include the Top Tokens/Chains Symbols handcrafted and made with lines only. (no fills). This pack grow over time.
@@ -67,7 +67,7 @@ Roadmap / Things to expect
 - starting with the top 500 coin icons
 - social media icons
 - interface icons
-- other relevant usefull crypto related icons 
+- other relevant usefull crypto related icons
 
 
 
@@ -91,6 +91,34 @@ Demo
 You can see a demo [here](https://fusion.li).
 
 
+Use with ReactTypescript
+----
+Modulize for React Typescript, run:
+```
+node build_tsx.js
+```
+
+After building copy the `icons` folder to your React Application
+
+then you can import them as Component:
+
+```tsx
+import { Add1 } from "./icons/interface"
+
+const ReactFunction = () => (
+    <Add1 width="16" height="16" />
+)
+```
+
+import all as bundle:
+
+```tsx
+import Svg from "./icons"
+
+const ReactFunction = () => (
+    <Svg.interface.Add1 width="16" height="16" />
+)
+```
 
 License
 ----
