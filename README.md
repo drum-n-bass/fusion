@@ -1,28 +1,19 @@
-Fusion
-======
+What is Fusion?
+----
 
-Fusion is an open source Line-Icon-Set what include the Top Tokens/Chains Symbols handcrafted and made with lines only. (no fills). This pack grow over time.
+Fusion is a collection of simply beautiful open source icons. It includes the Top Tokens/Chains Symbols and a lot of usefull Interface Icons. As its made out of pure lines, you can finetune it with css attributes: stroke-width and stroke. This pack grow over time.
+
+https://fusion.li
 
 ![preview](preview.png)
 
 
-Adjust / Tweak
+Using SVG Sprites
 ----
 
-You can finetune the css attributes: stroke-width and stroke to finetune the icons to your needs. You can see a demo [here](https://fusion.li).
+Download [`fusion-coins.svg`](sprites/fusion-coins.svg) and [`fusion-interface.svg`](sprites/fusion-interface.svg) to your project.
 
-
-Using the Fusion Icon Set
-----
-
-There are a lot of way's to implement SVG Icons inline into your Website, App, dApp. You can use PHP to include svg's, replace placeholders with client side with jscript, or use a spritesheet. However you wana add these Icons - it's up to you. Here is on of many solutions that works quite easy out of the box.
-
-SVG Sprites
-----
-
-1. Download [`fusion-coins.svg`](sprites/fusion-coins.svg) and [`fusion-interface.svg`](sprites/fusion-interface.svg) to your project.
-
-2. Define CSS
+Define CSS
 
 ```css
 .fusion{
@@ -35,39 +26,50 @@ fill: none;
 }
 ```
 
-3. Add HTML Markup
+Add HTML Markup
 
-Use the spritesheet what contains the icon you need, and add the icons name behind the #
+Use the spritesheet what contains the icon you need ( interface.scg or coins.svg, and add the icons name behind the #
 
 ```html
 <svg class="fusion">
 <use xlink:href="sprites/fusion-interface.svg#alarm"></use>
 </svg>
-
-<svg class="fusion">
-<use xlink:href="sprites/fusion-interface.svg#coffee"></use>
-</svg>
-
 <svg class="fusion">
 <use xlink:href="sprites/fusion-coins.svg#BTC_1"></use>
 </svg>
-
-<svg class="fusion">
-<use xlink:href="sprites/fusion-coins.svg#ETH_1027"></use>
-</svg>
-
 }
 ```
 
 
-
-Roadmap / Things to expect
+Use with ReactTypescript
 ----
 
-- starting with the top 500 coin icons
-- social media icons
-- interface icons
-- other relevant usefull crypto related icons
+Modulize for React Typescript, run:
+```
+node build_tsx.js
+```
+
+After building copy the `icons` folder to your React Application
+then you can import it as Component:
+
+```tsx
+import { Add1 } from "./icons/interface"
+
+const ReactFunction = () => (
+    <Add1 width="16" height="16" />
+)
+```
+
+import all as bundle:
+
+```tsx
+import Svg from "./icons"
+
+const ReactFunction = () => (
+    <Svg.interface.Add1 width="16" height="16" />
+)
+```
+
 
 
 
@@ -91,34 +93,6 @@ Demo
 You can see a demo [here](https://fusion.li).
 
 
-Use with ReactTypescript
-----
-Modulize for React Typescript, run:
-```
-node build_tsx.js
-```
-
-After building copy the `icons` folder to your React Application
-
-then you can import them as Component:
-
-```tsx
-import { Add1 } from "./icons/interface"
-
-const ReactFunction = () => (
-    <Add1 width="16" height="16" />
-)
-```
-
-import all as bundle:
-
-```tsx
-import Svg from "./icons"
-
-const ReactFunction = () => (
-    <Svg.interface.Add1 width="16" height="16" />
-)
-```
 
 License
 ----
