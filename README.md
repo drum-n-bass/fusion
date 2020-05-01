@@ -71,8 +71,8 @@ const ReactFunction = () => (
 JSON Data
 ----
 
-coins.json is a fetch from coinmarketcap's top 500 coins,
-what i update when making new icons.
+coins.json is a fetch from coinmarketcap's top 500 coins, where i add some metadata to have the information about physical file name, spritename, and if i already did an icon at all for this currency.
+
 
 ```json
 {
