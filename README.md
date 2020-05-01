@@ -82,9 +82,19 @@ coins.json is a fetch from coinmarketcap's top 500 coins, where i add some metad
 	"exists": true, 
 	"file": "BTC_1.svg", 
 	"sprite": "#BTC_1"
-},
+}
 ```
 
+interface.json is a generated json from the /interface folder to have all icons available with name, spritename and physical file name.
+
+
+```json
+    {
+        "name": "alarm",
+        "file": "alarm.svg",
+        "sprite": "#alarm"
+    }
+```
 
 
 
