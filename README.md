@@ -76,12 +76,12 @@ what i update when making new icons.
 
 ```json
 {
-	"name": "Bitcoin", //coinmarketcap currency name
-	"symbol": "BTC", //coinmarketcap symbol name
-	"cmcId": 1, //coinmarketcap unique id
-	"exists": true, //fusion have an icon for it or not
-	"file": "BTC_1.svg", //file's physical name
-	"sprite": "#BTC_1" //sprite's name
+	"name": "Bitcoin",
+	"symbol": "BTC",
+	"cmcId": 1,
+	"exists": true, 
+	"file": "BTC_1.svg", 
+	"sprite": "#BTC_1"
 },
 ```
 
