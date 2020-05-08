@@ -2,1256 +2,1505 @@
     {
         "name": "add1",
         "file": "add1.svg",
-        "sprite": "#add1"
+        "sprite": "#add1",
+        "tags": "add, plus, rectangle, +, calculate, sum, total, positive, expand, increase"
     },
     {
         "name": "add2",
         "file": "add2.svg",
-        "sprite": "#add2"
+        "sprite": "#add2",
+        "tags": "add, plus, circle, +, calculate, sum, total, positive, expand, increase"
     },
     {
         "name": "alarm",
         "file": "alarm.svg",
-        "sprite": "#alarm"
+        "sprite": "#alarm",
+        "tags": "alarm, notification, sound, bell, message, reminder, news, report, warning, notice"
     },
     {
         "name": "android",
         "file": "android.svg",
-        "sprite": "#android"
+        "sprite": "#android",
+        "tags": "robot, playstore, google"
     },
     {
         "name": "apple_command",
         "file": "apple_command.svg",
-        "sprite": "#apple_command"
+        "sprite": "#apple_command",
+        "tags": "command, cmd, keyboard, key"
     },
     {
         "name": "arrow_bottom2",
         "file": "arrow_bottom2.svg",
-        "sprite": "#arrow_bottom2"
+        "sprite": "#arrow_bottom2",
+        "tags": "arrow, down, downward, dropdown, select"
     },
     {
         "name": "arrow_bottom3",
         "file": "arrow_bottom3.svg",
-        "sprite": "#arrow_bottom3"
+        "sprite": "#arrow_bottom3",
+        "tags": "arrow, down, downward, dropdown, select, double, 2, "
     },
     {
         "name": "arrow_bottom4",
         "file": "arrow_bottom4.svg",
-        "sprite": "#arrow_bottom4"
+        "sprite": "#arrow_bottom4",
+        "tags": "arrow, down, downward, dropdown, select"
     },
     {
         "name": "arrow_bottom5",
         "file": "arrow_bottom5.svg",
-        "sprite": "#arrow_bottom5"
+        "sprite": "#arrow_bottom5",
+        "tags": "arrow, down, downward, dropdown, select, double, 2, "
     },
     {
         "name": "arrow_bottomleft",
         "file": "arrow_bottomleft.svg",
-        "sprite": "#arrow_bottomleft"
+        "sprite": "#arrow_bottomleft",
+        "tags": "arrow, bottom, left "
     },
     {
         "name": "arrow_bottomright",
         "file": "arrow_bottomright.svg",
-        "sprite": "#arrow_bottomright"
+        "sprite": "#arrow_bottomright",
+        "tags": "arrow, bottom, right "
     },
     {
         "name": "arrow_bottomtop",
         "file": "arrow_bottomtop.svg",
-        "sprite": "#arrow_bottomtop"
+        "sprite": "#arrow_bottomtop",
+        "tags": "arrow, bottom, top, arrows, 2, vertical"
     },
     {
         "name": "arrow_diagonal1",
         "file": "arrow_diagonal1.svg",
-        "sprite": "#arrow_diagonal1"
+        "sprite": "#arrow_diagonal1",
+        "tags": "arrow, arrows, 2, diagonal"
     },
     {
         "name": "arrow_diagonal2",
         "file": "arrow_diagonal2.svg",
-        "sprite": "#arrow_diagonal2"
+        "sprite": "#arrow_diagonal2",
+        "tags": "arrow, arrows, 2, diagonal"
     },
     {
         "name": "arrow_down",
         "file": "arrow_down.svg",
-        "sprite": "#arrow_down"
+        "sprite": "#arrow_down",
+        "tags": "arrow, download, down, bottom"
     },
     {
         "name": "arrow_down_boxed",
         "file": "arrow_down_boxed.svg",
-        "sprite": "#arrow_down_boxed"
+        "sprite": "#arrow_down_boxed",
+        "tags": "arrow, boxed, down, menu, select, dropdown"
     },
     {
         "name": "arrow_left",
         "file": "arrow_left.svg",
-        "sprite": "#arrow_left"
+        "sprite": "#arrow_left",
+        "tags": "back, previous, past, ex, earlier"
     },
     {
         "name": "arrow_left2",
         "file": "arrow_left2.svg",
-        "sprite": "#arrow_left2"
+        "sprite": "#arrow_left2",
+        "tags": "back, previous, past, ex, earlier"
     },
     {
         "name": "arrow_left3",
         "file": "arrow_left3.svg",
-        "sprite": "#arrow_left3"
+        "sprite": "#arrow_left3",
+        "tags": "back, previous, past, ex, earlier, double, 2"
     },
     {
         "name": "arrow_left4",
         "file": "arrow_left4.svg",
-        "sprite": "#arrow_left4"
+        "sprite": "#arrow_left4",
+        "tags": "back, previous, past, ex, earlier"
     },
     {
         "name": "arrow_left5",
         "file": "arrow_left5.svg",
-        "sprite": "#arrow_left5"
+        "sprite": "#arrow_left5",
+        "tags": "back, previous, past, ex, earlier, 2, double"
     },
     {
         "name": "arrow_left_boxed",
         "file": "arrow_left_boxed.svg",
-        "sprite": "#arrow_left_boxed"
+        "sprite": "#arrow_left_boxed",
+        "tags": "back, previous, past, ex, earlier, boxed"
     },
     {
         "name": "arrow_leftright",
         "file": "arrow_leftright.svg",
-        "sprite": "#arrow_leftright"
+        "sprite": "#arrow_leftright",
+        "tags": "arrows, horizontal, 2, slide, range, distance"
     },
     {
         "name": "arrow_right",
         "file": "arrow_right.svg",
-        "sprite": "#arrow_right"
+        "sprite": "#arrow_right",
+        "tags": "next, forward, arrow, skip, show, this, point"
     },
     {
         "name": "arrow_right2",
         "file": "arrow_right2.svg",
-        "sprite": "#arrow_right2"
+        "sprite": "#arrow_right2",
+        "tags": "next, forward, arrow, skip, show, this, point"
     },
     {
         "name": "arrow_right3",
         "file": "arrow_right3.svg",
-        "sprite": "#arrow_right3"
+        "sprite": "#arrow_right3",
+        "tags": "next, forward, arrow, skip, show, this, point, double, 2"
     },
     {
         "name": "arrow_right4",
         "file": "arrow_right4.svg",
-        "sprite": "#arrow_right4"
+        "sprite": "#arrow_right4",
+        "tags": "next, forward, arrow, skip, show, this, point"
     },
     {
         "name": "arrow_right5",
         "file": "arrow_right5.svg",
-        "sprite": "#arrow_right5"
+        "sprite": "#arrow_right5",
+        "tags": "next, forward, arrow, skip, show, this, point, double, 2"
     },
     {
         "name": "arrow_right_boxed",
         "file": "arrow_right_boxed.svg",
-        "sprite": "#arrow_right_boxed"
+        "sprite": "#arrow_right_boxed",
+        "tags": "next, forward, arrow, skip, show, this, point, boxed"
     },
     {
         "name": "arrow_top2",
         "file": "arrow_top2.svg",
-        "sprite": "#arrow_top2"
+        "sprite": "#arrow_top2",
+        "tags": ""
     },
     {
         "name": "arrow_top3",
         "file": "arrow_top3.svg",
-        "sprite": "#arrow_top3"
+        "sprite": "#arrow_top3",
+        "tags": ""
     },
     {
         "name": "arrow_top4",
         "file": "arrow_top4.svg",
-        "sprite": "#arrow_top4"
+        "sprite": "#arrow_top4",
+        "tags": ""
     },
     {
         "name": "arrow_top5",
         "file": "arrow_top5.svg",
-        "sprite": "#arrow_top5"
+        "sprite": "#arrow_top5",
+        "tags": ""
     },
     {
         "name": "arrow_topleft",
         "file": "arrow_topleft.svg",
-        "sprite": "#arrow_topleft"
+        "sprite": "#arrow_topleft",
+        "tags": ""
     },
     {
         "name": "arrow_topright",
         "file": "arrow_topright.svg",
-        "sprite": "#arrow_topright"
+        "sprite": "#arrow_topright",
+        "tags": ""
     },
     {
         "name": "arrow_up",
         "file": "arrow_up.svg",
-        "sprite": "#arrow_up"
+        "sprite": "#arrow_up",
+        "tags": ""
     },
     {
         "name": "arrow_up_boxed",
         "file": "arrow_up_boxed.svg",
-        "sprite": "#arrow_up_boxed"
+        "sprite": "#arrow_up_boxed",
+        "tags": ""
     },
     {
         "name": "axe",
         "file": "axe.svg",
-        "sprite": "#axe"
+        "sprite": "#axe",
+        "tags": ""
     },
     {
         "name": "badge",
         "file": "badge.svg",
-        "sprite": "#badge"
+        "sprite": "#badge",
+        "tags": ""
     },
     {
         "name": "ball",
         "file": "ball.svg",
-        "sprite": "#ball"
+        "sprite": "#ball",
+        "tags": ""
     },
     {
         "name": "bar_chart",
         "file": "bar_chart.svg",
-        "sprite": "#bar_chart"
+        "sprite": "#bar_chart",
+        "tags": ""
     },
     {
         "name": "batery0",
         "file": "batery0.svg",
-        "sprite": "#batery0"
+        "sprite": "#batery0",
+        "tags": ""
     },
     {
         "name": "batery1",
         "file": "batery1.svg",
-        "sprite": "#batery1"
+        "sprite": "#batery1",
+        "tags": ""
     },
     {
         "name": "batery2",
         "file": "batery2.svg",
-        "sprite": "#batery2"
+        "sprite": "#batery2",
+        "tags": ""
     },
     {
         "name": "batery3",
         "file": "batery3.svg",
-        "sprite": "#batery3"
+        "sprite": "#batery3",
+        "tags": ""
     },
     {
         "name": "batery4",
         "file": "batery4.svg",
-        "sprite": "#batery4"
+        "sprite": "#batery4",
+        "tags": ""
     },
     {
         "name": "block",
         "file": "block.svg",
-        "sprite": "#block"
+        "sprite": "#block",
+        "tags": ""
     },
     {
         "name": "block3d",
         "file": "block3d.svg",
-        "sprite": "#block3d"
+        "sprite": "#block3d",
+        "tags": ""
     },
     {
         "name": "blockchain",
         "file": "blockchain.svg",
-        "sprite": "#blockchain"
+        "sprite": "#blockchain",
+        "tags": ""
     },
     {
         "name": "bluetooth",
         "file": "bluetooth.svg",
-        "sprite": "#bluetooth"
+        "sprite": "#bluetooth",
+        "tags": ""
     },
     {
-        "name": "book-184",
-        "file": "book-184.svg",
-        "sprite": "#book-184"
+        "name": "book-185",
+        "file": "book-185.svg",
+        "sprite": "#book-185"
     },
     {
-        "name": "book-33",
-        "file": "book-33.svg",
-        "sprite": "#book-33"
+        "name": "book-34",
+        "file": "book-34.svg",
+        "sprite": "#book-34"
     },
     {
         "name": "box1",
         "file": "box1.svg",
-        "sprite": "#box1"
+        "sprite": "#box1",
+        "tags": ""
     },
     {
         "name": "box2",
         "file": "box2.svg",
-        "sprite": "#box2"
+        "sprite": "#box2",
+        "tags": ""
     },
     {
         "name": "box3",
         "file": "box3.svg",
-        "sprite": "#box3"
+        "sprite": "#box3",
+        "tags": ""
     },
     {
         "name": "box4",
         "file": "box4.svg",
-        "sprite": "#box4"
+        "sprite": "#box4",
+        "tags": ""
     },
     {
         "name": "box5",
         "file": "box5.svg",
-        "sprite": "#box5"
+        "sprite": "#box5",
+        "tags": ""
     },
     {
         "name": "box6",
         "file": "box6.svg",
-        "sprite": "#box6"
+        "sprite": "#box6",
+        "tags": ""
     },
     {
         "name": "box7",
         "file": "box7.svg",
-        "sprite": "#box7"
+        "sprite": "#box7",
+        "tags": ""
     },
     {
         "name": "box_container",
         "file": "box_container.svg",
-        "sprite": "#box_container"
+        "sprite": "#box_container",
+        "tags": ""
     },
     {
         "name": "boxed_export",
         "file": "boxed_export.svg",
-        "sprite": "#boxed_export"
+        "sprite": "#boxed_export",
+        "tags": ""
     },
     {
         "name": "boxed_import",
         "file": "boxed_import.svg",
-        "sprite": "#boxed_import"
+        "sprite": "#boxed_import",
+        "tags": ""
     },
     {
         "name": "browser",
         "file": "browser.svg",
-        "sprite": "#browser"
+        "sprite": "#browser",
+        "tags": ""
     },
     {
         "name": "bulp",
         "file": "bulp.svg",
-        "sprite": "#bulp"
+        "sprite": "#bulp",
+        "tags": ""
     },
     {
         "name": "camera",
         "file": "camera.svg",
-        "sprite": "#camera"
+        "sprite": "#camera",
+        "tags": ""
     },
     {
         "name": "cart1",
         "file": "cart1.svg",
-        "sprite": "#cart1"
+        "sprite": "#cart1",
+        "tags": ""
     },
     {
         "name": "cart2",
         "file": "cart2.svg",
-        "sprite": "#cart2"
+        "sprite": "#cart2",
+        "tags": ""
     },
     {
         "name": "cd",
         "file": "cd.svg",
-        "sprite": "#cd"
+        "sprite": "#cd",
+        "tags": ""
     },
     {
         "name": "chat1",
         "file": "chat1.svg",
-        "sprite": "#chat1"
+        "sprite": "#chat1",
+        "tags": ""
     },
     {
         "name": "chat2",
         "file": "chat2.svg",
-        "sprite": "#chat2"
+        "sprite": "#chat2",
+        "tags": ""
     },
     {
         "name": "check",
         "file": "check.svg",
-        "sprite": "#check"
+        "sprite": "#check",
+        "tags": ""
     },
     {
         "name": "check2",
         "file": "check2.svg",
-        "sprite": "#check2"
+        "sprite": "#check2",
+        "tags": ""
     },
     {
         "name": "checkbox",
         "file": "checkbox.svg",
-        "sprite": "#checkbox"
+        "sprite": "#checkbox",
+        "tags": ""
     },
     {
         "name": "checked",
         "file": "checked.svg",
-        "sprite": "#checked"
+        "sprite": "#checked",
+        "tags": ""
     },
     {
         "name": "checkmark",
         "file": "checkmark.svg",
-        "sprite": "#checkmark"
+        "sprite": "#checkmark",
+        "tags": ""
     },
     {
         "name": "circle1",
         "file": "circle1.svg",
-        "sprite": "#circle1"
+        "sprite": "#circle1",
+        "tags": ""
     },
     {
         "name": "circle2",
         "file": "circle2.svg",
-        "sprite": "#circle2"
+        "sprite": "#circle2",
+        "tags": ""
     },
     {
         "name": "circle3",
         "file": "circle3.svg",
-        "sprite": "#circle3"
+        "sprite": "#circle3",
+        "tags": ""
     },
     {
         "name": "circle4",
         "file": "circle4.svg",
-        "sprite": "#circle4"
+        "sprite": "#circle4",
+        "tags": ""
     },
     {
         "name": "circle5",
         "file": "circle5.svg",
-        "sprite": "#circle5"
+        "sprite": "#circle5",
+        "tags": ""
     },
     {
         "name": "circle6",
         "file": "circle6.svg",
-        "sprite": "#circle6"
+        "sprite": "#circle6",
+        "tags": ""
     },
     {
         "name": "circle7",
         "file": "circle7.svg",
-        "sprite": "#circle7"
+        "sprite": "#circle7",
+        "tags": ""
     },
     {
         "name": "cli",
         "file": "cli.svg",
-        "sprite": "#cli"
+        "sprite": "#cli",
+        "tags": ""
     },
     {
         "name": "close",
         "file": "close.svg",
-        "sprite": "#close"
+        "sprite": "#close",
+        "tags": ""
     },
     {
         "name": "close_boxed",
         "file": "close_boxed.svg",
-        "sprite": "#close_boxed"
+        "sprite": "#close_boxed",
+        "tags": ""
     },
     {
         "name": "cloud",
         "file": "cloud.svg",
-        "sprite": "#cloud"
+        "sprite": "#cloud",
+        "tags": ""
     },
     {
         "name": "cloud_download",
         "file": "cloud_download.svg",
-        "sprite": "#cloud_download"
+        "sprite": "#cloud_download",
+        "tags": ""
     },
     {
         "name": "cloud_upload",
         "file": "cloud_upload.svg",
-        "sprite": "#cloud_upload"
+        "sprite": "#cloud_upload",
+        "tags": ""
     },
     {
         "name": "code1",
         "file": "code1.svg",
-        "sprite": "#code1"
+        "sprite": "#code1",
+        "tags": ""
     },
     {
         "name": "code2",
         "file": "code2.svg",
-        "sprite": "#code2"
+        "sprite": "#code2",
+        "tags": ""
     },
     {
         "name": "code3",
         "file": "code3.svg",
-        "sprite": "#code3"
+        "sprite": "#code3",
+        "tags": ""
     },
     {
         "name": "coffee",
         "file": "coffee.svg",
-        "sprite": "#coffee"
+        "sprite": "#coffee",
+        "tags": ""
     },
     {
         "name": "compass",
         "file": "compass.svg",
-        "sprite": "#compass"
+        "sprite": "#compass",
+        "tags": ""
     },
     {
         "name": "copytoclipboard",
         "file": "copytoclipboard.svg",
-        "sprite": "#copytoclipboard"
+        "sprite": "#copytoclipboard",
+        "tags": ""
     },
     {
         "name": "crop",
         "file": "crop.svg",
-        "sprite": "#crop"
+        "sprite": "#crop",
+        "tags": ""
     },
     {
         "name": "crown",
         "file": "crown.svg",
-        "sprite": "#crown"
+        "sprite": "#crown",
+        "tags": ""
     },
     {
         "name": "cut",
         "file": "cut.svg",
-        "sprite": "#cut"
+        "sprite": "#cut",
+        "tags": ""
     },
     {
         "name": "dashboard",
         "file": "dashboard.svg",
-        "sprite": "#dashboard"
+        "sprite": "#dashboard",
+        "tags": ""
     },
     {
         "name": "database",
         "file": "database.svg",
-        "sprite": "#database"
+        "sprite": "#database",
+        "tags": ""
     },
     {
         "name": "day",
         "file": "day.svg",
-        "sprite": "#day"
+        "sprite": "#day",
+        "tags": ""
     },
     {
         "name": "diamond",
         "file": "diamond.svg",
-        "sprite": "#diamond"
+        "sprite": "#diamond",
+        "tags": ""
     },
     {
         "name": "diamond2",
         "file": "diamond2.svg",
-        "sprite": "#diamond2"
+        "sprite": "#diamond2",
+        "tags": ""
     },
     {
         "name": "display",
         "file": "display.svg",
-        "sprite": "#display"
+        "sprite": "#display",
+        "tags": ""
     },
     {
         "name": "document",
         "file": "document.svg",
-        "sprite": "#document"
+        "sprite": "#document",
+        "tags": ""
     },
     {
         "name": "donate",
         "file": "donate.svg",
-        "sprite": "#donate"
+        "sprite": "#donate",
+        "tags": ""
     },
     {
         "name": "door_enter",
         "file": "door_enter.svg",
-        "sprite": "#door_enter"
+        "sprite": "#door_enter",
+        "tags": ""
     },
     {
         "name": "door_exit",
         "file": "door_exit.svg",
-        "sprite": "#door_exit"
+        "sprite": "#door_exit",
+        "tags": ""
     },
     {
         "name": "download",
         "file": "download.svg",
-        "sprite": "#download"
+        "sprite": "#download",
+        "tags": ""
     },
     {
         "name": "drag",
         "file": "drag.svg",
-        "sprite": "#drag"
+        "sprite": "#drag",
+        "tags": ""
     },
     {
         "name": "drop",
         "file": "drop.svg",
-        "sprite": "#drop"
+        "sprite": "#drop",
+        "tags": ""
     },
     {
         "name": "edit1",
         "file": "edit1.svg",
-        "sprite": "#edit1"
+        "sprite": "#edit1",
+        "tags": ""
     },
     {
         "name": "edit2",
         "file": "edit2.svg",
-        "sprite": "#edit2"
+        "sprite": "#edit2",
+        "tags": ""
     },
     {
         "name": "edit3",
         "file": "edit3.svg",
-        "sprite": "#edit3"
+        "sprite": "#edit3",
+        "tags": ""
     },
     {
         "name": "edit4",
         "file": "edit4.svg",
-        "sprite": "#edit4"
+        "sprite": "#edit4",
+        "tags": ""
     },
     {
         "name": "email",
         "file": "email.svg",
-        "sprite": "#email"
+        "sprite": "#email",
+        "tags": ""
     },
     {
         "name": "email_open",
         "file": "email_open.svg",
-        "sprite": "#email_open"
+        "sprite": "#email_open",
+        "tags": ""
     },
     {
         "name": "emote_happy",
         "file": "emote_happy.svg",
-        "sprite": "#emote_happy"
+        "sprite": "#emote_happy",
+        "tags": ""
     },
     {
         "name": "emote_sad",
         "file": "emote_sad.svg",
-        "sprite": "#emote_sad"
+        "sprite": "#emote_sad",
+        "tags": ""
     },
     {
         "name": "export",
         "file": "export.svg",
-        "sprite": "#export"
+        "sprite": "#export",
+        "tags": ""
     },
     {
         "name": "fingernail",
         "file": "fingernail.svg",
-        "sprite": "#fingernail"
+        "sprite": "#fingernail",
+        "tags": ""
     },
     {
         "name": "flag",
         "file": "flag.svg",
-        "sprite": "#flag"
+        "sprite": "#flag",
+        "tags": ""
     },
     {
         "name": "folder",
         "file": "folder.svg",
-        "sprite": "#folder"
+        "sprite": "#folder",
+        "tags": ""
     },
     {
         "name": "folder_open",
         "file": "folder_open.svg",
-        "sprite": "#folder_open"
+        "sprite": "#folder_open",
+        "tags": ""
     },
     {
         "name": "fork",
         "file": "fork.svg",
-        "sprite": "#fork"
+        "sprite": "#fork",
+        "tags": ""
     },
     {
         "name": "fullscreen1",
         "file": "fullscreen1.svg",
-        "sprite": "#fullscreen1"
+        "sprite": "#fullscreen1",
+        "tags": ""
     },
     {
         "name": "fullscreen2",
         "file": "fullscreen2.svg",
-        "sprite": "#fullscreen2"
+        "sprite": "#fullscreen2",
+        "tags": ""
     },
     {
         "name": "fullscreen_expand",
         "file": "fullscreen_expand.svg",
-        "sprite": "#fullscreen_expand"
+        "sprite": "#fullscreen_expand",
+        "tags": ""
     },
     {
         "name": "fullscreen_shrink",
         "file": "fullscreen_shrink.svg",
-        "sprite": "#fullscreen_shrink"
+        "sprite": "#fullscreen_shrink",
+        "tags": ""
     },
     {
         "name": "ghost",
         "file": "ghost.svg",
-        "sprite": "#ghost"
+        "sprite": "#ghost",
+        "tags": ""
     },
     {
         "name": "gift",
         "file": "gift.svg",
-        "sprite": "#gift"
+        "sprite": "#gift",
+        "tags": ""
     },
     {
         "name": "gitcoin_kudos",
         "file": "gitcoin_kudos.svg",
-        "sprite": "#gitcoin_kudos"
+        "sprite": "#gitcoin_kudos",
+        "tags": ""
     },
     {
         "name": "github",
         "file": "github.svg",
-        "sprite": "#github"
+        "sprite": "#github",
+        "tags": ""
     },
     {
         "name": "glass_champagne",
         "file": "glass_champagne.svg",
-        "sprite": "#glass_champagne"
+        "sprite": "#glass_champagne",
+        "tags": ""
     },
     {
         "name": "glass_coctail",
         "file": "glass_coctail.svg",
-        "sprite": "#glass_coctail"
+        "sprite": "#glass_coctail",
+        "tags": ""
     },
     {
         "name": "glass_juice",
         "file": "glass_juice.svg",
-        "sprite": "#glass_juice"
+        "sprite": "#glass_juice",
+        "tags": ""
     },
     {
         "name": "glass_wine",
         "file": "glass_wine.svg",
-        "sprite": "#glass_wine"
+        "sprite": "#glass_wine",
+        "tags": ""
     },
     {
         "name": "globe",
         "file": "globe.svg",
-        "sprite": "#globe"
+        "sprite": "#globe",
+        "tags": ""
     },
     {
         "name": "graph1",
         "file": "graph1.svg",
-        "sprite": "#graph1"
+        "sprite": "#graph1",
+        "tags": ""
     },
     {
         "name": "graph2",
         "file": "graph2.svg",
-        "sprite": "#graph2"
+        "sprite": "#graph2",
+        "tags": ""
     },
     {
         "name": "ground_plan",
         "file": "ground_plan.svg",
-        "sprite": "#ground_plan"
+        "sprite": "#ground_plan",
+        "tags": ""
     },
     {
         "name": "hash",
         "file": "hash.svg",
-        "sprite": "#hash"
+        "sprite": "#hash",
+        "tags": ""
     },
     {
         "name": "heart1",
         "file": "heart1.svg",
-        "sprite": "#heart1"
+        "sprite": "#heart1",
+        "tags": ""
     },
     {
         "name": "heart2",
         "file": "heart2.svg",
-        "sprite": "#heart2"
+        "sprite": "#heart2",
+        "tags": ""
     },
     {
         "name": "hexagon_spider_web",
         "file": "hexagon_spider_web.svg",
-        "sprite": "#hexagon_spider_web"
+        "sprite": "#hexagon_spider_web",
+        "tags": ""
     },
     {
         "name": "home",
         "file": "home.svg",
-        "sprite": "#home"
+        "sprite": "#home",
+        "tags": ""
     },
     {
         "name": "image",
         "file": "image.svg",
-        "sprite": "#image"
+        "sprite": "#image",
+        "tags": ""
     },
     {
         "name": "import",
         "file": "import.svg",
-        "sprite": "#import"
+        "sprite": "#import",
+        "tags": ""
     },
     {
         "name": "invisible",
         "file": "invisible.svg",
-        "sprite": "#invisible"
+        "sprite": "#invisible",
+        "tags": ""
     },
     {
         "name": "key",
         "file": "key.svg",
-        "sprite": "#key"
+        "sprite": "#key",
+        "tags": ""
     },
     {
         "name": "keypair",
         "file": "keypair.svg",
-        "sprite": "#keypair"
+        "sprite": "#keypair",
+        "tags": ""
     },
     {
         "name": "knowledge",
         "file": "knowledge.svg",
-        "sprite": "#knowledge"
+        "sprite": "#knowledge",
+        "tags": ""
     },
     {
         "name": "layers2",
         "file": "layers2.svg",
-        "sprite": "#layers2"
+        "sprite": "#layers2",
+        "tags": ""
     },
     {
         "name": "layers3",
         "file": "layers3.svg",
-        "sprite": "#layers3"
+        "sprite": "#layers3",
+        "tags": ""
     },
     {
         "name": "ledger",
         "file": "ledger.svg",
-        "sprite": "#ledger"
+        "sprite": "#ledger",
+        "tags": ""
     },
     {
         "name": "lifebelt",
         "file": "lifebelt.svg",
-        "sprite": "#lifebelt"
+        "sprite": "#lifebelt",
+        "tags": ""
     },
     {
         "name": "link1",
         "file": "link1.svg",
-        "sprite": "#link1"
+        "sprite": "#link1",
+        "tags": ""
     },
     {
         "name": "link2",
         "file": "link2.svg",
-        "sprite": "#link2"
+        "sprite": "#link2",
+        "tags": ""
     },
     {
         "name": "list",
         "file": "list.svg",
-        "sprite": "#list"
+        "sprite": "#list",
+        "tags": ""
     },
     {
         "name": "location",
         "file": "location.svg",
-        "sprite": "#location"
+        "sprite": "#location",
+        "tags": ""
     },
     {
         "name": "lock_checked",
         "file": "lock_checked.svg",
-        "sprite": "#lock_checked"
+        "sprite": "#lock_checked",
+        "tags": ""
     },
     {
         "name": "lock_locked",
         "file": "lock_locked.svg",
-        "sprite": "#lock_locked"
+        "sprite": "#lock_locked",
+        "tags": ""
     },
     {
         "name": "lock_unlocked",
         "file": "lock_unlocked.svg",
-        "sprite": "#lock_unlocked"
+        "sprite": "#lock_unlocked",
+        "tags": ""
     },
     {
         "name": "loop",
         "file": "loop.svg",
-        "sprite": "#loop"
+        "sprite": "#loop",
+        "tags": ""
     },
     {
         "name": "loop1",
         "file": "loop1.svg",
-        "sprite": "#loop1"
+        "sprite": "#loop1",
+        "tags": ""
     },
     {
         "name": "loop2",
         "file": "loop2.svg",
-        "sprite": "#loop2"
+        "sprite": "#loop2",
+        "tags": ""
     },
     {
         "name": "magnet",
         "file": "magnet.svg",
-        "sprite": "#magnet"
+        "sprite": "#magnet",
+        "tags": ""
     },
     {
         "name": "magnet2",
         "file": "magnet2.svg",
-        "sprite": "#magnet2"
+        "sprite": "#magnet2",
+        "tags": ""
     },
     {
         "name": "map",
         "file": "map.svg",
-        "sprite": "#map"
+        "sprite": "#map",
+        "tags": ""
     },
     {
         "name": "marker",
         "file": "marker.svg",
-        "sprite": "#marker"
+        "sprite": "#marker",
+        "tags": ""
     },
     {
         "name": "men",
         "file": "men.svg",
-        "sprite": "#men"
+        "sprite": "#men",
+        "tags": ""
     },
     {
         "name": "menu",
         "file": "menu.svg",
-        "sprite": "#menu"
+        "sprite": "#menu",
+        "tags": ""
     },
     {
         "name": "menu2",
         "file": "menu2.svg",
-        "sprite": "#menu2"
+        "sprite": "#menu2",
+        "tags": ""
     },
     {
         "name": "menu_circle",
         "file": "menu_circle.svg",
-        "sprite": "#menu_circle"
+        "sprite": "#menu_circle",
+        "tags": ""
     },
     {
         "name": "menu_horizontal",
         "file": "menu_horizontal.svg",
-        "sprite": "#menu_horizontal"
+        "sprite": "#menu_horizontal",
+        "tags": ""
     },
     {
         "name": "menu_vertical",
         "file": "menu_vertical.svg",
-        "sprite": "#menu_vertical"
+        "sprite": "#menu_vertical",
+        "tags": ""
     },
     {
         "name": "model",
         "file": "model.svg",
-        "sprite": "#model"
+        "sprite": "#model",
+        "tags": ""
     },
     {
         "name": "model_connection",
         "file": "model_connection.svg",
-        "sprite": "#model_connection"
+        "sprite": "#model_connection",
+        "tags": ""
     },
     {
         "name": "mouse",
         "file": "mouse.svg",
-        "sprite": "#mouse"
+        "sprite": "#mouse",
+        "tags": ""
     },
     {
         "name": "network",
         "file": "network.svg",
-        "sprite": "#network"
+        "sprite": "#network",
+        "tags": ""
     },
     {
         "name": "network_connected",
         "file": "network_connected.svg",
-        "sprite": "#network_connected"
+        "sprite": "#network_connected",
+        "tags": ""
     },
     {
         "name": "network_disconnected",
         "file": "network_disconnected.svg",
-        "sprite": "#network_disconnected"
+        "sprite": "#network_disconnected",
+        "tags": ""
     },
     {
         "name": "night",
         "file": "night.svg",
-        "sprite": "#night"
+        "sprite": "#night",
+        "tags": ""
     },
     {
         "name": "paperclip",
         "file": "paperclip.svg",
-        "sprite": "#paperclip"
+        "sprite": "#paperclip",
+        "tags": ""
     },
     {
         "name": "paperplane",
         "file": "paperplane.svg",
-        "sprite": "#paperplane"
+        "sprite": "#paperplane",
+        "tags": ""
     },
     {
         "name": "peace",
         "file": "peace.svg",
-        "sprite": "#peace"
+        "sprite": "#peace",
+        "tags": ""
     },
     {
         "name": "pie",
         "file": "pie.svg",
-        "sprite": "#pie"
+        "sprite": "#pie",
+        "tags": ""
     },
     {
         "name": "pie_chart",
         "file": "pie_chart.svg",
-        "sprite": "#pie_chart"
+        "sprite": "#pie_chart",
+        "tags": ""
     },
     {
         "name": "pin",
         "file": "pin.svg",
-        "sprite": "#pin"
+        "sprite": "#pin",
+        "tags": ""
     },
     {
         "name": "play",
         "file": "play.svg",
-        "sprite": "#play"
+        "sprite": "#play",
+        "tags": ""
     },
     {
         "name": "play_video",
         "file": "play_video.svg",
-        "sprite": "#play_video"
+        "sprite": "#play_video",
+        "tags": ""
     },
     {
         "name": "power",
         "file": "power.svg",
-        "sprite": "#power"
+        "sprite": "#power",
+        "tags": ""
     },
     {
         "name": "print",
         "file": "print.svg",
-        "sprite": "#print"
+        "sprite": "#print",
+        "tags": ""
     },
     {
         "name": "products",
         "file": "products.svg",
-        "sprite": "#products"
+        "sprite": "#products",
+        "tags": ""
     },
     {
         "name": "puzzle",
         "file": "puzzle.svg",
-        "sprite": "#puzzle"
+        "sprite": "#puzzle",
+        "tags": ""
     },
     {
         "name": "qrcode",
         "file": "qrcode.svg",
-        "sprite": "#qrcode"
+        "sprite": "#qrcode",
+        "tags": ""
     },
     {
         "name": "radiobutton",
         "file": "radiobutton.svg",
-        "sprite": "#radiobutton"
+        "sprite": "#radiobutton",
+        "tags": ""
     },
     {
         "name": "record1",
         "file": "record1.svg",
-        "sprite": "#record1"
+        "sprite": "#record1",
+        "tags": ""
     },
     {
         "name": "record2",
         "file": "record2.svg",
-        "sprite": "#record2"
+        "sprite": "#record2",
+        "tags": ""
     },
     {
         "name": "remove1",
         "file": "remove1.svg",
-        "sprite": "#remove1"
+        "sprite": "#remove1",
+        "tags": ""
     },
     {
         "name": "remove2",
         "file": "remove2.svg",
-        "sprite": "#remove2"
+        "sprite": "#remove2",
+        "tags": ""
     },
     {
         "name": "rhombus_number",
         "file": "rhombus_number.svg",
-        "sprite": "#rhombus_number"
+        "sprite": "#rhombus_number",
+        "tags": ""
     },
     {
         "name": "ruler",
         "file": "ruler.svg",
-        "sprite": "#ruler"
+        "sprite": "#ruler",
+        "tags": ""
     },
     {
         "name": "sandglass",
         "file": "sandglass.svg",
-        "sprite": "#sandglass"
+        "sprite": "#sandglass",
+        "tags": ""
     },
     {
         "name": "sandglass2",
         "file": "sandglass2.svg",
-        "sprite": "#sandglass2"
+        "sprite": "#sandglass2",
+        "tags": ""
     },
     {
         "name": "save",
         "file": "save.svg",
-        "sprite": "#save"
+        "sprite": "#save",
+        "tags": ""
     },
     {
         "name": "search",
         "file": "search.svg",
-        "sprite": "#search"
+        "sprite": "#search",
+        "tags": ""
     },
     {
         "name": "search1",
         "file": "search1.svg",
-        "sprite": "#search1"
+        "sprite": "#search1",
+        "tags": ""
     },
     {
         "name": "search2",
         "file": "search2.svg",
-        "sprite": "#search2"
+        "sprite": "#search2",
+        "tags": ""
     },
     {
         "name": "search3",
         "file": "search3.svg",
-        "sprite": "#search3"
+        "sprite": "#search3",
+        "tags": ""
     },
     {
         "name": "sequence",
         "file": "sequence.svg",
-        "sprite": "#sequence"
+        "sprite": "#sequence",
+        "tags": ""
     },
     {
         "name": "settings",
         "file": "settings.svg",
-        "sprite": "#settings"
+        "sprite": "#settings",
+        "tags": ""
     },
     {
         "name": "shirt",
         "file": "shirt.svg",
-        "sprite": "#shirt"
+        "sprite": "#shirt",
+        "tags": ""
     },
     {
         "name": "sign",
         "file": "sign.svg",
-        "sprite": "#sign"
+        "sprite": "#sign",
+        "tags": ""
     },
     {
         "name": "sign2",
         "file": "sign2.svg",
-        "sprite": "#sign2"
+        "sprite": "#sign2",
+        "tags": ""
     },
     {
         "name": "sliders",
         "file": "sliders.svg",
-        "sprite": "#sliders"
+        "sprite": "#sliders",
+        "tags": ""
     },
     {
         "name": "spinner1",
         "file": "spinner1.svg",
-        "sprite": "#spinner1"
+        "sprite": "#spinner1",
+        "tags": ""
     },
     {
         "name": "spinner2",
         "file": "spinner2.svg",
-        "sprite": "#spinner2"
+        "sprite": "#spinner2",
+        "tags": ""
     },
     {
         "name": "stairs",
         "file": "stairs.svg",
-        "sprite": "#stairs"
+        "sprite": "#stairs",
+        "tags": ""
     },
     {
         "name": "star",
         "file": "star.svg",
-        "sprite": "#star"
+        "sprite": "#star",
+        "tags": ""
     },
     {
         "name": "steering_wheel",
         "file": "steering_wheel.svg",
-        "sprite": "#steering_wheel"
+        "sprite": "#steering_wheel",
+        "tags": ""
     },
     {
         "name": "sun",
         "file": "sun.svg",
-        "sprite": "#sun"
+        "sprite": "#sun",
+        "tags": ""
     },
     {
         "name": "switch",
         "file": "switch.svg",
-        "sprite": "#switch"
+        "sprite": "#switch",
+        "tags": ""
     },
     {
         "name": "tag",
         "file": "tag.svg",
-        "sprite": "#tag"
+        "sprite": "#tag",
+        "tags": ""
     },
     {
         "name": "target",
         "file": "target.svg",
-        "sprite": "#target"
+        "sprite": "#target",
+        "tags": ""
     },
     {
         "name": "target_cross",
         "file": "target_cross.svg",
-        "sprite": "#target_cross"
+        "sprite": "#target_cross",
+        "tags": ""
     },
     {
         "name": "target_cross_small",
         "file": "target_cross_small.svg",
-        "sprite": "#target_cross_small"
+        "sprite": "#target_cross_small",
+        "tags": ""
     },
     {
         "name": "textfile",
         "file": "textfile.svg",
-        "sprite": "#textfile"
+        "sprite": "#textfile",
+        "tags": ""
     },
     {
         "name": "time",
         "file": "time.svg",
-        "sprite": "#time"
+        "sprite": "#time",
+        "tags": ""
     },
     {
         "name": "tire",
         "file": "tire.svg",
-        "sprite": "#tire"
+        "sprite": "#tire",
+        "tags": ""
     },
     {
         "name": "toggle",
         "file": "toggle.svg",
-        "sprite": "#toggle"
+        "sprite": "#toggle",
+        "tags": ""
     },
     {
         "name": "token",
         "file": "token.svg",
-        "sprite": "#token"
+        "sprite": "#token",
+        "tags": ""
     },
     {
         "name": "toolkit",
         "file": "toolkit.svg",
-        "sprite": "#toolkit"
+        "sprite": "#toolkit",
+        "tags": ""
     },
     {
         "name": "trash",
         "file": "trash.svg",
-        "sprite": "#trash"
+        "sprite": "#trash",
+        "tags": ""
     },
     {
         "name": "trezor",
         "file": "trezor.svg",
-        "sprite": "#trezor"
+        "sprite": "#trezor",
+        "tags": ""
     },
     {
         "name": "umbrella",
         "file": "umbrella.svg",
-        "sprite": "#umbrella"
+        "sprite": "#umbrella",
+        "tags": ""
     },
     {
         "name": "unlink",
         "file": "unlink.svg",
-        "sprite": "#unlink"
+        "sprite": "#unlink",
+        "tags": ""
     },
     {
         "name": "usb",
         "file": "usb.svg",
-        "sprite": "#usb"
+        "sprite": "#usb",
+        "tags": ""
     },
     {
         "name": "user",
         "file": "user.svg",
-        "sprite": "#user"
+        "sprite": "#user",
+        "tags": ""
     },
     {
         "name": "user_add",
         "file": "user_add.svg",
-        "sprite": "#user_add"
+        "sprite": "#user_add",
+        "tags": ""
     },
     {
         "name": "view_grid",
         "file": "view_grid.svg",
-        "sprite": "#view_grid"
+        "sprite": "#view_grid",
+        "tags": ""
     },
     {
         "name": "view_list",
         "file": "view_list.svg",
-        "sprite": "#view_list"
+        "sprite": "#view_list",
+        "tags": ""
     },
     {
         "name": "visible",
         "file": "visible.svg",
-        "sprite": "#visible"
+        "sprite": "#visible",
+        "tags": ""
     },
     {
         "name": "warning",
         "file": "warning.svg",
-        "sprite": "#warning"
+        "sprite": "#warning",
+        "tags": ""
     },
     {
         "name": "wifi",
         "file": "wifi.svg",
-        "sprite": "#wifi"
+        "sprite": "#wifi",
+        "tags": ""
     },
     {
         "name": "wifi2",
         "file": "wifi2.svg",
-        "sprite": "#wifi2"
+        "sprite": "#wifi2",
+        "tags": ""
     },
     {
         "name": "windows_layers",
         "file": "windows_layers.svg",
-        "sprite": "#windows_layers"
+        "sprite": "#windows_layers",
+        "tags": ""
     },
     {
         "name": "woman",
         "file": "woman.svg",
-        "sprite": "#woman"
+        "sprite": "#woman",
+        "tags": ""
     },
     {
         "name": "woman2",
         "file": "woman2.svg",
-        "sprite": "#woman2"
+        "sprite": "#woman2",
+        "tags": ""
     },
     {
         "name": "wrench",
         "file": "wrench.svg",
-        "sprite": "#wrench"
+        "sprite": "#wrench",
+        "tags": ""
     },
     {
         "name": "zoom_in",
         "file": "zoom_in.svg",
-        "sprite": "#zoom_in"
+        "sprite": "#zoom_in",
+        "tags": ""
     },
     {
         "name": "zoom_out",
         "file": "zoom_out.svg",
-        "sprite": "#zoom_out"
+        "sprite": "#zoom_out",
+        "tags": ""
     }
 ]

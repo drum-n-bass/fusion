@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64"><polygon points="28 20 24 12 8 12 8 20 8 52 56 52 56 20 28 20" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/><line x1="56" y1="28" x2="8" y2="28" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="2"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" stroke-width="1px" stroke="#000"><path d="M28 20l-4-8H8v40h48V20H28zM56 28H8"/></svg>
