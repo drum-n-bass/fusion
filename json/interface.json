@@ -177,1330 +177,1332 @@
         "name": "arrow_top2",
         "file": "arrow_top2.svg",
         "sprite": "#arrow_top2",
-        "tags": ""
+        "tags": "arrow, top, upwards"
     },
     {
         "name": "arrow_top3",
         "file": "arrow_top3.svg",
         "sprite": "#arrow_top3",
-        "tags": ""
+        "tags": "arrow, top, upwards, double, 2"
     },
     {
         "name": "arrow_top4",
         "file": "arrow_top4.svg",
         "sprite": "#arrow_top4",
-        "tags": ""
+        "tags": "arrow, top, menu, dropdown"
     },
     {
         "name": "arrow_top5",
         "file": "arrow_top5.svg",
         "sprite": "#arrow_top5",
-        "tags": ""
+        "tags": "arrow, top, double"
     },
     {
         "name": "arrow_topleft",
         "file": "arrow_topleft.svg",
         "sprite": "#arrow_topleft",
-        "tags": ""
+        "tags": "arrow, top, left"
     },
     {
         "name": "arrow_topright",
         "file": "arrow_topright.svg",
         "sprite": "#arrow_topright",
-        "tags": ""
+        "tags": "arrow, top, right"
     },
     {
         "name": "arrow_up",
         "file": "arrow_up.svg",
         "sprite": "#arrow_up",
-        "tags": ""
+        "tags": "arrow, top"
     },
     {
         "name": "arrow_up_boxed",
         "file": "arrow_up_boxed.svg",
         "sprite": "#arrow_up_boxed",
-        "tags": ""
+        "tags": "arrow, top, boxed"
     },
     {
         "name": "axe",
         "file": "axe.svg",
         "sprite": "#axe",
-        "tags": ""
+        "tags": "axe, minecraft, slash, destroy, wood, slice"
     },
     {
         "name": "badge",
         "file": "badge.svg",
         "sprite": "#badge",
-        "tags": ""
+        "tags": "insignia, marker, medallion, pin, ribbon, stamp, symbol, token, cordon, mark, sign"
     },
     {
         "name": "ball",
         "file": "ball.svg",
         "sprite": "#ball",
-        "tags": ""
+        "tags": "dribble, sport, game, play, tennis, ball"
     },
     {
         "name": "bar_chart",
         "file": "bar_chart.svg",
         "sprite": "#bar_chart",
-        "tags": ""
+        "tags": "graph, sketch, diagram, plot, scheme, bar"
     },
     {
         "name": "batery0",
         "file": "batery0.svg",
         "sprite": "#batery0",
-        "tags": ""
+        "tags": "battery, power, pack, lithium, empty"
     },
     {
         "name": "batery1",
         "file": "batery1.svg",
         "sprite": "#batery1",
-        "tags": ""
+        "tags": "battery, power, pack, lithium, 1"
     },
     {
         "name": "batery2",
         "file": "batery2.svg",
         "sprite": "#batery2",
-        "tags": ""
+        "tags": "battery, power, pack, lithium, 2, half, full"
     },
     {
         "name": "batery3",
         "file": "batery3.svg",
         "sprite": "#batery3",
-        "tags": ""
+        "tags": "battery, power, pack, lithium, 3, full"
     },
     {
         "name": "batery4",
         "file": "batery4.svg",
         "sprite": "#batery4",
-        "tags": ""
+        "tags": "battery, power, pack, lithium, 4, full"
     },
     {
         "name": "block",
         "file": "block.svg",
         "sprite": "#block",
-        "tags": ""
+        "tags": "cube, brick, chunk, piece, slab, section, square, segment, solid, 3d"
     },
     {
         "name": "block3d",
         "file": "block3d.svg",
         "sprite": "#block3d",
-        "tags": ""
+        "tags": "cube, brick, chunk, piece, slab, section, square, segment, solid, 3d"
     },
     {
         "name": "blockchain",
         "file": "blockchain.svg",
         "sprite": "#blockchain",
-        "tags": ""
+        "tags": "chain, block"
     },
     {
         "name": "bluetooth",
         "file": "bluetooth.svg",
         "sprite": "#bluetooth",
-        "tags": ""
+        "tags": "connect, blue, tooth, wireless, transfer"
     },
     {
         "name": "book-185",
         "file": "book-185.svg",
-        "sprite": "#book-185"
+        "sprite": "#book-185",
+        "tags": "book, open, album, booklet, brochure, dictionary, edition, essay, fiction, magazine, manual, novel, publication, text, textbook, writing, atlas, codex, compendium, folio, hardcover, lexicon, reader, print"
     },
     {
         "name": "book-34",
         "file": "book-34.svg",
-        "sprite": "#book-34"
+        "sprite": "#book-34",
+        "tags": "book, open, album, booklet, brochure, dictionary, edition, essay, fiction, magazine, manual, novel, publication, text, textbook, writing, atlas, codex, compendium, folio, hardcover, lexicon, reader, print"
     },
     {
         "name": "box1",
         "file": "box1.svg",
         "sprite": "#box1",
-        "tags": ""
+        "tags": "page, section, full"
     },
     {
         "name": "box2",
         "file": "box2.svg",
         "sprite": "#box2",
-        "tags": ""
+        "tags": "page, section, half, split"
     },
     {
         "name": "box3",
         "file": "box3.svg",
         "sprite": "#box3",
-        "tags": ""
+        "tags": "page, section, half, split"
     },
     {
         "name": "box4",
         "file": "box4.svg",
         "sprite": "#box4",
-        "tags": ""
+        "tags": "page, section, quater, split"
     },
     {
         "name": "box5",
         "file": "box5.svg",
         "sprite": "#box5",
-        "tags": ""
+        "tags": "page, section, diagonal, split, half"
     },
     {
         "name": "box6",
         "file": "box6.svg",
         "sprite": "#box6",
-        "tags": ""
+        "tags": "page, section, diagonal, split"
     },
     {
         "name": "box7",
         "file": "box7.svg",
         "sprite": "#box7",
-        "tags": ""
+        "tags": "page, section, quater, split"
     },
     {
         "name": "box_container",
         "file": "box_container.svg",
         "sprite": "#box_container",
-        "tags": ""
+        "tags": "3d, box, carton, crate, packet"
     },
     {
         "name": "boxed_export",
         "file": "boxed_export.svg",
         "sprite": "#boxed_export",
-        "tags": ""
+        "tags": "export, send, push"
     },
     {
         "name": "boxed_import",
         "file": "boxed_import.svg",
         "sprite": "#boxed_import",
-        "tags": ""
+        "tags": "import, recieve, pull"
     },
     {
         "name": "browser",
         "file": "browser.svg",
         "sprite": "#browser",
-        "tags": ""
+        "tags": "internet, explorer, safari, firefox, chrome, google, browser, web, surfing, intranet"
     },
     {
         "name": "bulp",
         "file": "bulp.svg",
         "sprite": "#bulp",
-        "tags": ""
+        "tags": "idea, light, power, gulp, bulb, brighten, shine, cast, illume, lighten, spotlight, bright, visible"
     },
     {
         "name": "camera",
         "file": "camera.svg",
         "sprite": "#camera",
-        "tags": ""
+        "tags": "picture, photo, camera, video, polaroid, image"
     },
     {
         "name": "cart1",
         "file": "cart1.svg",
         "sprite": "#cart1",
-        "tags": ""
+        "tags": "basket, chart, shopping"
     },
     {
         "name": "cart2",
         "file": "cart2.svg",
         "sprite": "#cart2",
-        "tags": ""
+        "tags": "basket, chart, shopping"
     },
     {
         "name": "cd",
         "file": "cd.svg",
         "sprite": "#cd",
-        "tags": ""
+        "tags": "music, cd, audio, song, track, album, lp, record, vinyl"
     },
     {
         "name": "chat1",
         "file": "chat1.svg",
         "sprite": "#chat1",
-        "tags": ""
+        "tags": "chat, message, conversation, support, talk, notification"
     },
     {
         "name": "chat2",
         "file": "chat2.svg",
         "sprite": "#chat2",
-        "tags": ""
+        "tags": "chat, message, conversation, support, talk, notification"
     },
     {
         "name": "check",
         "file": "check.svg",
         "sprite": "#check",
-        "tags": ""
+        "tags": "check, control, task, list, todo, selected, ok, done, approved, accepted, authorized, permitted, affirmed, chosen, legalized, validated, ok"
     },
     {
         "name": "check2",
         "file": "check2.svg",
         "sprite": "#check2",
-        "tags": ""
+        "tags": "check, control, task, list, todo, selected, ok, done, approved, accepted, authorized, permitted, affirmed, chosen, legalized, validated, ok"
     },
     {
         "name": "checkbox",
         "file": "checkbox.svg",
         "sprite": "#checkbox",
-        "tags": ""
+        "tags": "check, control, task, list, todo, selected, ok, done, approved, accepted, authorized, permitted, affirmed, chosen, legalized, validated, ok"
     },
     {
         "name": "checked",
         "file": "checked.svg",
         "sprite": "#checked",
-        "tags": ""
+        "tags": "check, control, task, list, todo, selected, ok, done, approved, accepted, authorized, permitted, affirmed, chosen, legalized, validated, ok"
     },
     {
         "name": "checkmark",
         "file": "checkmark.svg",
         "sprite": "#checkmark",
-        "tags": ""
+        "tags": "check, control, task, list, todo, selected, ok, done, approved, accepted, authorized, permitted, affirmed, chosen, legalized, validated, ok"
     },
     {
         "name": "circle1",
         "file": "circle1.svg",
         "sprite": "#circle1",
-        "tags": ""
+        "tags": "shape, round, ball, circle, full"
     },
     {
         "name": "circle2",
         "file": "circle2.svg",
         "sprite": "#circle2",
-        "tags": ""
+        "tags": "shape, round, ball, circle, full, half, split, vertical"
     },
     {
         "name": "circle3",
         "file": "circle3.svg",
         "sprite": "#circle3",
-        "tags": ""
+        "tags": "shape, round, ball, circle, full, half, split, horizontal"
     },
     {
         "name": "circle4",
         "file": "circle4.svg",
         "sprite": "#circle4",
-        "tags": ""
+        "tags": "shape, round, ball, circle, full, split, cross, quater"
     },
     {
         "name": "circle5",
         "file": "circle5.svg",
         "sprite": "#circle5",
-        "tags": ""
+        "tags": "shape, round, ball, circle, full, half, split, diagonal"
     },
     {
         "name": "circle6",
         "file": "circle6.svg",
         "sprite": "#circle6",
-        "tags": ""
+        "tags": "shape, round, ball, circle, full, half, split, diagonal"
     },
     {
         "name": "circle7",
         "file": "circle7.svg",
         "sprite": "#circle7",
-        "tags": ""
+        "tags": "shape, round, ball, circle, full, half, split, cross, close, x"
     },
     {
         "name": "cli",
         "file": "cli.svg",
         "sprite": "#cli",
-        "tags": ""
+        "tags": "command, line, terminal, bash, root, sudo, path, shell"
     },
     {
         "name": "close",
         "file": "close.svg",
         "sprite": "#close",
-        "tags": ""
+        "tags": "exit, quit, close, end, escape"
     },
     {
         "name": "close_boxed",
         "file": "close_boxed.svg",
         "sprite": "#close_boxed",
-        "tags": ""
+        "tags": "exit, quit, close, end, escape, boxed"
     },
     {
         "name": "cloud",
         "file": "cloud.svg",
         "sprite": "#cloud",
-        "tags": ""
+        "tags": "cloud, network, server, mass, storrage, computing, hosting,"
     },
     {
         "name": "cloud_download",
         "file": "cloud_download.svg",
         "sprite": "#cloud_download",
-        "tags": ""
+        "tags": "cloud, network, server, mass, storrage, computing, hosting, download, pull, fork"
     },
     {
         "name": "cloud_upload",
         "file": "cloud_upload.svg",
         "sprite": "#cloud_upload",
-        "tags": ""
+        "tags": "cloud, network, server, mass, storrage, computing, hosting, download, push, upload, provide, publish"
     },
     {
         "name": "code1",
         "file": "code1.svg",
         "sprite": "#code1",
-        "tags": ""
+        "tags": "code, pre, coding, script"
     },
     {
         "name": "code2",
         "file": "code2.svg",
         "sprite": "#code2",
-        "tags": ""
+        "tags": "code, pre, coding, script"
     },
     {
         "name": "code3",
         "file": "code3.svg",
         "sprite": "#code3",
-        "tags": ""
+        "tags": "code, pre, coding, script"
     },
     {
         "name": "coffee",
         "file": "coffee.svg",
         "sprite": "#coffee",
-        "tags": ""
+        "tags": "coffe, tea, drink, hot, cup, heat, thirsty"
     },
     {
         "name": "compass",
         "file": "compass.svg",
         "sprite": "#compass",
-        "tags": ""
+        "tags": "direction, north, west, south, east, netscape, navigation, nautic, exploration, sea, sailing"
     },
     {
         "name": "copytoclipboard",
         "file": "copytoclipboard.svg",
         "sprite": "#copytoclipboard",
-        "tags": ""
+        "tags": "layers, copy, to, clipboard, paste, code, script"
     },
     {
         "name": "crop",
         "file": "crop.svg",
         "sprite": "#crop",
-        "tags": ""
+        "tags": "crop, cut, slice, scrape, prune, dimensions, scale, downsample, upsample"
     },
     {
         "name": "crown",
         "file": "crown.svg",
         "sprite": "#crown",
-        "tags": ""
+        "tags": "king, royal, rule, leader, queen, master, lord, winner, win, best, first"
     },
     {
         "name": "cut",
         "file": "cut.svg",
         "sprite": "#cut",
-        "tags": ""
+        "tags": "scissors, shears, clippers, claw, pincer, cut, slice, sever"
     },
     {
         "name": "dashboard",
         "file": "dashboard.svg",
         "sprite": "#dashboard",
-        "tags": ""
+        "tags": "dashboard, analysis, chart, computer, diagram, trend, gauge, speedometer, status, speed, indicator, gas, data, graph, visual, monitor, level"
     },
     {
         "name": "database",
         "file": "database.svg",
         "sprite": "#database",
-        "tags": ""
+        "tags": "database, data, storage, memory, record, tables, block, scheme, server, storage, sql, graphql, mysql, archive"
     },
     {
         "name": "day",
         "file": "day.svg",
         "sprite": "#day",
-        "tags": ""
+        "tags": "sun, day, weather, theme, light"
     },
     {
         "name": "diamond",
         "file": "diamond.svg",
         "sprite": "#diamond",
-        "tags": ""
+        "tags": "gem, expensive, jewel, vip, ruby, crystal, jewelry, brilliant, quality, glas"
     },
     {
         "name": "diamond2",
         "file": "diamond2.svg",
         "sprite": "#diamond2",
-        "tags": ""
+        "tags": "gem, expensive, jewel, vip, ruby, crystal, jewelry, brilliant, quality, glas"
     },
     {
         "name": "display",
         "file": "display.svg",
         "sprite": "#display",
-        "tags": ""
+        "tags": "display, screen, computer, device, media, monitor, television, pc, mac, apple, imac, tv"
     },
     {
         "name": "document",
         "file": "document.svg",
         "sprite": "#document",
-        "tags": ""
+        "tags": "archive, file, page, paper, document, copy, type, extension"
     },
     {
         "name": "donate",
         "file": "donate.svg",
         "sprite": "#donate",
-        "tags": ""
+        "tags": "donate, contribute, support, money, helping, poor, rich, care, dollar, donation, gift, financial, investment, pay, profit, startup, grant, give, foundation, deposit, charity, currency, funds, financing, supporting"
     },
     {
         "name": "door_enter",
         "file": "door_enter.svg",
         "sprite": "#door_enter",
-        "tags": ""
+        "tags": "door, enter, exit, interior, home, out, login, sign in, visit, entrance, entry, inside, gate"
     },
     {
         "name": "door_exit",
         "file": "door_exit.svg",
         "sprite": "#door_exit",
-        "tags": ""
+        "tags": "door, enter, exit, interior, home, out, login, sign in, visit, entrance, entry, inside, gate"
     },
     {
         "name": "download",
         "file": "download.svg",
         "sprite": "#download",
-        "tags": ""
+        "tags": "download, upload, save, push, pull, file, zip, arrow, server"
     },
     {
         "name": "drag",
         "file": "drag.svg",
         "sprite": "#drag",
-        "tags": ""
+        "tags": "drag, move, arrow, enlarge, expand, maximize, scale, click, resize"
     },
     {
         "name": "drop",
         "file": "drop.svg",
         "sprite": "#drop",
-        "tags": ""
+        "tags": "drop, water, h2o, fluid, rain, drip, moist"
     },
     {
         "name": "edit1",
         "file": "edit1.svg",
         "sprite": "#edit1",
-        "tags": ""
+        "tags": "edit, pencil, wrote, compose, sketch, draw, resume, post, pen, file, text, word"
     },
     {
         "name": "edit2",
         "file": "edit2.svg",
         "sprite": "#edit2",
-        "tags": ""
+        "tags": "edit, pencil, wrote, compose, sketch, draw, resume, post, pen, file, text, word"
     },
     {
         "name": "edit3",
         "file": "edit3.svg",
         "sprite": "#edit3",
-        "tags": ""
+        "tags": "edit, pencil, wrote, compose, sketch, draw, resume, post, pen, file, text, word"
     },
     {
         "name": "edit4",
         "file": "edit4.svg",
         "sprite": "#edit4",
-        "tags": ""
+        "tags": "edit, pencil, wrote, compose, sketch, draw, resume, post, pen, file, text, word"
     },
     {
         "name": "email",
         "file": "email.svg",
         "sprite": "#email",
-        "tags": ""
+        "tags": "email, envelope, letter, mail, message, post, adress, newsletter"
     },
     {
         "name": "email_open",
         "file": "email_open.svg",
         "sprite": "#email_open",
-        "tags": ""
+        "tags": "email, envelope, letter, mail, message, post, adress, newsletter"
     },
     {
         "name": "emote_happy",
         "file": "emote_happy.svg",
         "sprite": "#emote_happy",
-        "tags": ""
+        "tags": "emoji, emote, smile, face, expression, happy, fun, friendly, emoticon"
     },
     {
         "name": "emote_sad",
         "file": "emote_sad.svg",
         "sprite": "#emote_sad",
-        "tags": ""
+        "tags": "emoji, emote, sad, face, expression, bad, dislike, emoticon"
     },
     {
         "name": "export",
         "file": "export.svg",
         "sprite": "#export",
-        "tags": ""
+        "tags": "export, share, push, commit, arrow, upload"
     },
     {
         "name": "fingernail",
         "file": "fingernail.svg",
         "sprite": "#fingernail",
-        "tags": ""
+        "tags": "finger, hand, manicure, nail, beauty, art, fashion, guitar player, trim, polish, pedicure"
     },
     {
         "name": "flag",
         "file": "flag.svg",
         "sprite": "#flag",
-        "tags": ""
+        "tags": "flag, direction, map, navigation, race, banner, begin, emblem, pin, pole, country, wind, nation, party, white, point, pride, mark, milestone, landmark"
     },
     {
         "name": "folder",
         "file": "folder.svg",
         "sprite": "#folder",
-        "tags": ""
+        "tags": "folder, archive, open, storage, share, browse, explorer, documents, directory, sheet"
     },
     {
         "name": "folder_open",
         "file": "folder_open.svg",
         "sprite": "#folder_open",
-        "tags": ""
+        "tags": "folder, archive, open, storage, share, browse, explorer, documents, directory, sheet"
     },
     {
         "name": "fork",
         "file": "fork.svg",
         "sprite": "#fork",
-        "tags": ""
+        "tags": "fork, kitchen, restaurant, cooking, github, cutlery, silverware, eat, food, tableware"
     },
     {
         "name": "fullscreen1",
         "file": "fullscreen1.svg",
         "sprite": "#fullscreen1",
-        "tags": ""
+        "tags": "fullscreen, expand, collapse, arrows, stretch, enlarge, extend, maximize"
     },
     {
         "name": "fullscreen2",
         "file": "fullscreen2.svg",
         "sprite": "#fullscreen2",
-        "tags": ""
+        "tags": "fullscreen, expand, collapse, arrows, stretch, enlarge, extend, maximize"
     },
     {
         "name": "fullscreen_expand",
         "file": "fullscreen_expand.svg",
         "sprite": "#fullscreen_expand",
-        "tags": ""
+        "tags": "fullscreen, expand, collapse, arrows, stretch, enlarge, extend, maximize"
     },
     {
         "name": "fullscreen_shrink",
         "file": "fullscreen_shrink.svg",
         "sprite": "#fullscreen_shrink",
-        "tags": ""
+        "tags": "fullscreen, expand, collapse, arrows, stretch, enlarge, extend, maximize, shrink, minimize"
     },
     {
         "name": "ghost",
         "file": "ghost.svg",
         "sprite": "#ghost",
-        "tags": ""
+        "tags": "ghost, halloween, game, horror, scary, spooky, specter, paranormal, costume, cemetery, casper, spirit"
     },
     {
         "name": "gift",
         "file": "gift.svg",
         "sprite": "#gift",
-        "tags": ""
+        "tags": "gift, birthday, present, product, ribbon, box, bonus, celebration, surprise, reward, carton, present, love, valentine, bag, wrap, send"
     },
     {
         "name": "gitcoin_kudos",
         "file": "gitcoin_kudos.svg",
         "sprite": "#gitcoin_kudos",
-        "tags": ""
+        "tags": "kudos, gitcoin, top, positive, ok, like, favorite"
     },
     {
         "name": "github",
         "file": "github.svg",
         "sprite": "#github",
-        "tags": ""
+        "tags": "guthub, code, fork, pull, push, commit, merge"
     },
     {
         "name": "glass_champagne",
         "file": "glass_champagne.svg",
         "sprite": "#glass_champagne",
-        "tags": ""
+        "tags": "glas, drink, kitchen, juice, water"
     },
     {
         "name": "glass_coctail",
         "file": "glass_coctail.svg",
         "sprite": "#glass_coctail",
-        "tags": ""
+        "tags": "glas, drink, kitchen, juice, water"
     },
     {
         "name": "glass_juice",
         "file": "glass_juice.svg",
         "sprite": "#glass_juice",
-        "tags": ""
+        "tags": "glas, drink, kitchen, juice, water"
     },
     {
         "name": "glass_wine",
         "file": "glass_wine.svg",
         "sprite": "#glass_wine",
-        "tags": ""
+        "tags": "glas, drink, kitchen, juice, water"
     },
     {
         "name": "globe",
         "file": "globe.svg",
         "sprite": "#globe",
-        "tags": ""
+        "tags": "globe, commerce, earth, trade, world, location, map, internet, financial, currency, travel, international, language, grid, worldwide, network"
     },
     {
         "name": "graph1",
         "file": "graph1.svg",
         "sprite": "#graph1",
-        "tags": ""
+        "tags": "graph, analytics, finance, report, statistics, stats, diagram, dashboard, chart, infographic, table, rise, increase, growth, decrease"
     },
     {
         "name": "graph2",
         "file": "graph2.svg",
         "sprite": "#graph2",
-        "tags": ""
+        "tags": "graph, analytics, finance, report, statistics, stats, diagram, dashboard, chart, infographic, table, rise, increase, growth, decrease"
     },
     {
         "name": "ground_plan",
         "file": "ground_plan.svg",
         "sprite": "#ground_plan",
-        "tags": ""
+        "tags": "floor, ground, home, plan, blueprint"
     },
     {
         "name": "hash",
         "file": "hash.svg",
         "sprite": "#hash",
-        "tags": ""
+        "tags": "hash, rank, number, sign, muddle, medley, littter, jumble, tag, trending, sharp, pound"
     },
     {
         "name": "heart1",
         "file": "heart1.svg",
         "sprite": "#heart1",
-        "tags": ""
+        "tags": "heart, affection, anniversary, love, valentine, like, share, favorite, care, passion, signal, union, life, fav"
     },
     {
         "name": "heart2",
         "file": "heart2.svg",
         "sprite": "#heart2",
-        "tags": ""
+        "tags": "heart, affection, anniversary, love, valentine, like, share, favorite, care, passion, signal, union, life, fav"
     },
     {
         "name": "hexagon_spider_web",
         "file": "hexagon_spider_web.svg",
         "sprite": "#hexagon_spider_web",
-        "tags": ""
+        "tags": "hexagon, blocks, modular, object, beehive, honeycomb, hex, technology, geometry, form, spider, web"
     },
     {
         "name": "home",
         "file": "home.svg",
         "sprite": "#home",
-        "tags": ""
+        "tags": "home, house, property, real, estate, construct, navigation, resodemce. space, start, building, living"
     },
     {
         "name": "image",
         "file": "image.svg",
         "sprite": "#image",
-        "tags": ""
+        "tags": "image, gallery, media, photo, picture, polaroid, nature, sun"
     },
     {
         "name": "import",
         "file": "import.svg",
         "sprite": "#import",
-        "tags": ""
+        "tags": "import, load, download, merge, save, receive, render, get, storeage"
     },
     {
         "name": "invisible",
         "file": "invisible.svg",
         "sprite": "#invisible",
-        "tags": ""
+        "tags": "invisible, hide, transparent, deactivated, eye, unseen, hidden, vision, view, blind, turn off, private"
     },
     {
         "name": "key",
         "file": "key.svg",
         "sprite": "#key",
-        "tags": ""
+        "tags": "key, access, private, public, protection, security, lock, password, admin, master"
     },
     {
         "name": "keypair",
         "file": "keypair.svg",
         "sprite": "#keypair",
-        "tags": ""
+        "tags": "keys, pair, access, private, public, protection, security, lock, password, admin, master"
     },
     {
         "name": "knowledge",
         "file": "knowledge.svg",
         "sprite": "#knowledge",
-        "tags": ""
+        "tags": "knowledge, education, learning, reading, study, smart, clever, know, academic"
     },
     {
         "name": "layers2",
         "file": "layers2.svg",
         "sprite": "#layers2",
-        "tags": ""
+        "tags": "layer, artboard, order, sequence, multible, arrange, stack, versions, many, copy, pages, papers, frames, overlap, collection, slides"
     },
     {
         "name": "layers3",
         "file": "layers3.svg",
         "sprite": "#layers3",
-        "tags": ""
+        "tags": "layer, artboard, order, sequence, multible, arrange, stack, versions, many, copy, pages, papers, frames, overlap, collection, slides"
     },
     {
         "name": "ledger",
         "file": "ledger.svg",
         "sprite": "#ledger",
-        "tags": ""
+        "tags": "ledger, hardware, wallet, crypto, blockchain"
     },
     {
         "name": "lifebelt",
         "file": "lifebelt.svg",
         "sprite": "#lifebelt",
-        "tags": ""
+        "tags": "lifebelt, ring, guard, saver, rescue, protect, help"
     },
     {
         "name": "link1",
         "file": "link1.svg",
         "sprite": "#link1",
-        "tags": ""
+        "tags": "link, chain, connect, url, a, href, hyperlink"
     },
     {
         "name": "link2",
         "file": "link2.svg",
         "sprite": "#link2",
-        "tags": ""
+        "tags": "link, chain, connect, url, a, href, hyperlink"
     },
     {
         "name": "list",
         "file": "list.svg",
         "sprite": "#list",
-        "tags": ""
+        "tags": "list, clipboard, data, bullet, todo, tasks, menu, checklist, reminder, feed, news, listing"
     },
     {
         "name": "location",
         "file": "location.svg",
         "sprite": "#location",
-        "tags": ""
+        "tags": "location, gps, maps, place, route, street, pin, marker, point, position"
     },
     {
         "name": "lock_checked",
         "file": "lock_checked.svg",
         "sprite": "#lock_checked",
-        "tags": ""
+        "tags": "lock, security, protection, safety, encrypt, bolt, ssl, locked, locking, access, password, private, checked"
     },
     {
         "name": "lock_locked",
         "file": "lock_locked.svg",
         "sprite": "#lock_locked",
-        "tags": ""
+        "tags": "lock, security, protection, safety, encrypt, bolt, ssl, locked, locking, access, password, private, locked"
     },
     {
         "name": "lock_unlocked",
         "file": "lock_unlocked.svg",
         "sprite": "#lock_unlocked",
-        "tags": ""
+        "tags": "lock, security, protection, safety, encrypt, bolt, ssl, locked, locking, access, password, private, unlocked, open, access"
     },
     {
         "name": "loop",
         "file": "loop.svg",
         "sprite": "#loop",
-        "tags": ""
+        "tags": "loop, circular, refresh, repeat, round, sequence, cycle, rotate"
     },
     {
         "name": "loop1",
         "file": "loop1.svg",
         "sprite": "#loop1",
-        "tags": ""
+        "tags": "loop, circular, refresh, repeat, round, sequence, cycle, rotate"
     },
     {
         "name": "loop2",
         "file": "loop2.svg",
         "sprite": "#loop2",
-        "tags": ""
+        "tags": "loop, circular, refresh, repeat, round, sequence, cycle, rotate"
     },
     {
         "name": "magnet",
         "file": "magnet.svg",
         "sprite": "#magnet",
-        "tags": ""
+        "tags": "magnet, attraction, magnetic, collect, physics, lab, science, positive, negative, snap, align, metal, attach, force"
     },
     {
         "name": "magnet2",
         "file": "magnet2.svg",
         "sprite": "#magnet2",
-        "tags": ""
+        "tags": "magnet, attraction, magnetic, collect, physics, lab, science, positive, negative, snap, align, metal, attach, force"
     },
     {
         "name": "map",
         "file": "map.svg",
         "sprite": "#map",
-        "tags": ""
+        "tags": "map, frame, plan, project, travel, route, location, place, card, flyer, adress"
     },
     {
         "name": "marker",
         "file": "marker.svg",
         "sprite": "#marker",
-        "tags": ""
+        "tags": "location, gps, maps, place, route, street, pin, marker, point, position, paper, plane"
     },
     {
         "name": "men",
         "file": "men.svg",
         "sprite": "#men",
-        "tags": ""
+        "tags": "men, man, genders, maskuline"
     },
     {
         "name": "menu",
         "file": "menu.svg",
         "sprite": "#menu",
-        "tags": ""
+        "tags": "menu, burger, navigation, lines"
     },
     {
         "name": "menu2",
         "file": "menu2.svg",
         "sprite": "#menu2",
-        "tags": ""
+        "tags": "menu, burger, navigation, lines, boxed"
     },
     {
         "name": "menu_circle",
         "file": "menu_circle.svg",
         "sprite": "#menu_circle",
-        "tags": ""
+        "tags": "menu, burger, navigation, dots, circle"
     },
     {
         "name": "menu_horizontal",
         "file": "menu_horizontal.svg",
         "sprite": "#menu_horizontal",
-        "tags": ""
+        "tags": "menu, burger, navigation, dots, horizontal "
     },
     {
         "name": "menu_vertical",
         "file": "menu_vertical.svg",
         "sprite": "#menu_vertical",
-        "tags": ""
+        "tags": "menu, burger, navigation, dots, vertical "
     },
     {
         "name": "model",
         "file": "model.svg",
         "sprite": "#model",
-        "tags": ""
+        "tags": "model, iot, network, modeling, graph, hierarchy, tree, nodes"
     },
     {
         "name": "model_connection",
         "file": "model_connection.svg",
         "sprite": "#model_connection",
-        "tags": ""
+        "tags": "model, iot, network, modeling, graph, hierarchy, tree, connection, node"
     },
     {
         "name": "mouse",
         "file": "mouse.svg",
         "sprite": "#mouse",
-        "tags": ""
+        "tags": "mouse, office, scroll, click, device, usb, wireless, bluetooth, computer, hardware"
     },
     {
         "name": "network",
         "file": "network.svg",
         "sprite": "#network",
-        "tags": ""
+        "tags": "network, connection, lan, wlan, ethernet, wireless"
     },
     {
         "name": "network_connected",
         "file": "network_connected.svg",
         "sprite": "#network_connected",
-        "tags": ""
+        "tags": "network, connection, lan, wlan, ethernet, wireless, connected"
     },
     {
         "name": "network_disconnected",
         "file": "network_disconnected.svg",
         "sprite": "#network_disconnected",
-        "tags": ""
+        "tags": "network, connection, lan, wlan, ethernet, wireless, disconnected"
     },
     {
         "name": "night",
         "file": "night.svg",
         "sprite": "#night",
-        "tags": ""
+        "tags": "night, moon, theme, dark, mode"
     },
     {
         "name": "paperclip",
         "file": "paperclip.svg",
         "sprite": "#paperclip",
-        "tags": ""
+        "tags": "paperclip, attachment, binder, clinch, office, holder, paper, clip"
     },
     {
         "name": "paperplane",
         "file": "paperplane.svg",
         "sprite": "#paperplane",
-        "tags": ""
+        "tags": "paper, plane, deliver, direction, location, send"
     },
     {
         "name": "peace",
         "file": "peace.svg",
         "sprite": "#peace",
-        "tags": ""
+        "tags": "peace, psychedelic, pacifist, hippy, freedom, 60s, harmony, unity"
     },
     {
         "name": "pie",
         "file": "pie.svg",
         "sprite": "#pie",
-        "tags": ""
+        "tags": "pie, graph, analytics, finance, report, statistics, stats, diagram, dashboard, chart, infographic, table, rise, increase, growth"
     },
     {
         "name": "pie_chart",
         "file": "pie_chart.svg",
         "sprite": "#pie_chart",
-        "tags": ""
+        "tags": "pie, 3d, graph, analytics, finance, report, statistics, stats, diagram, dashboard, chart, infographic, table, rise, increase, growth"
     },
     {
         "name": "pin",
         "file": "pin.svg",
         "sprite": "#pin",
-        "tags": ""
+        "tags": "pin, important, stick, fix, needle, favorite, area, navigation"
     },
     {
         "name": "play",
         "file": "play.svg",
         "sprite": "#play",
-        "tags": ""
+        "tags": "play, movie, player, sound, video, youtube, vimeo, start"
     },
     {
         "name": "play_video",
         "file": "play_video.svg",
         "sprite": "#play_video",
-        "tags": ""
+        "tags": "play, movie, player, sound, video, youtube, vimeo, start"
     },
     {
         "name": "power",
         "file": "power.svg",
         "sprite": "#power",
-        "tags": ""
+        "tags": "power, on, off, toggle, switch, button"
     },
     {
         "name": "print",
         "file": "print.svg",
         "sprite": "#print",
-        "tags": ""
+        "tags": "print, copy, scan"
     },
     {
         "name": "products",
         "file": "products.svg",
         "sprite": "#products",
-        "tags": ""
+        "tags": "products, cubes, abstract, service, boxes, packages"
     },
     {
         "name": "puzzle",
         "file": "puzzle.svg",
         "sprite": "#puzzle",
-        "tags": ""
+        "tags": "puzzle, part, piece, solution, fun, play, game, strategy, team, problem "
     },
     {
         "name": "qrcode",
         "file": "qrcode.svg",
         "sprite": "#qrcode",
-        "tags": ""
+        "tags": "qr, code"
     },
     {
         "name": "radiobutton",
         "file": "radiobutton.svg",
         "sprite": "#radiobutton",
-        "tags": ""
+        "tags": "radio, button, selected, select, option"
     },
     {
         "name": "record1",
         "file": "record1.svg",
         "sprite": "#record1",
-        "tags": ""
+        "tags": "record, audio, microphone, podcast, voice, wave, speak, stream, sing, talk"
     },
     {
         "name": "record2",
         "file": "record2.svg",
         "sprite": "#record2",
-        "tags": ""
+        "tags": "record, audio, microphone, podcast, voice, wave, speak, stream, sing, talk"
     },
     {
         "name": "remove1",
         "file": "remove1.svg",
         "sprite": "#remove1",
-        "tags": ""
+        "tags": "remove, minus, boxed, delete, cancel, delete, erase, negative, - , substract"
     },
     {
         "name": "remove2",
         "file": "remove2.svg",
         "sprite": "#remove2",
-        "tags": ""
+        "tags": "remove, minus, circle, delete, cancel, delete, erase, negative, - , substract"
     },
     {
         "name": "rhombus_number",
         "file": "rhombus_number.svg",
         "sprite": "#rhombus_number",
-        "tags": ""
+        "tags": "number, hash"
     },
     {
         "name": "ruler",
         "file": "ruler.svg",
         "sprite": "#ruler",
-        "tags": ""
+        "tags": "ruler, grid, lenght, measure, distance, construction, teach, inch, cm, px"
     },
     {
         "name": "sandglass",
         "file": "sandglass.svg",
         "sprite": "#sandglass",
-        "tags": ""
+        "tags": "sandglass, hourglass, time, loading, wait, timer, countdown, stopwatch, clock, waiting "
     },
     {
         "name": "sandglass2",
         "file": "sandglass2.svg",
         "sprite": "#sandglass2",
-        "tags": ""
+        "tags": "sandglass, hourglass, time, loading, wait, timer, countdown, stopwatch, clock, waiting "
     },
     {
         "name": "save",
         "file": "save.svg",
         "sprite": "#save",
-        "tags": ""
+        "tags": "save, disk, floppy, memory, storage, backup"
     },
     {
         "name": "search",
         "file": "search.svg",
         "sprite": "#search",
-        "tags": ""
+        "tags": "search, magnifier, magnifying, glass, view, inspect, find, lens, zoom"
     },
     {
         "name": "search1",
         "file": "search1.svg",
         "sprite": "#search1",
-        "tags": ""
+        "tags": "search, magnifier, magnifying, glass, view, inspect, find, lens, zoom"
     },
     {
         "name": "search2",
         "file": "search2.svg",
         "sprite": "#search2",
-        "tags": ""
+        "tags": "search, magnifier, magnifying, glass, view, inspect, find, lens, zoom"
     },
     {
         "name": "search3",
         "file": "search3.svg",
         "sprite": "#search3",
-        "tags": ""
+        "tags": "search, magnifier, magnifying, glass, view, inspect, find, lens, zoom"
     },
     {
         "name": "sequence",
         "file": "sequence.svg",
         "sprite": "#sequence",
-        "tags": ""
+        "tags": "sequence, progression, timeline, order, workplan, todo"
     },
     {
         "name": "settings",
         "file": "settings.svg",
         "sprite": "#settings",
-        "tags": ""
+        "tags": "settings, gear, cog, maintenance, service, control, management, options, preferences"
     },
     {
         "name": "shirt",
         "file": "shirt.svg",
         "sprite": "#shirt",
-        "tags": ""
+        "tags": "shirt, fashion, clothes, outfit, apparel, body, store, laundry"
     },
     {
         "name": "sign",
         "file": "sign.svg",
         "sprite": "#sign",
-        "tags": ""
+        "tags": "sign, direction, goal, road, post"
     },
     {
         "name": "sign2",
         "file": "sign2.svg",
         "sprite": "#sign2",
-        "tags": ""
+        "tags": "sign, direction, goal, road, post"
     },
     {
         "name": "sliders",
         "file": "sliders.svg",
         "sprite": "#sliders",
-        "tags": ""
+        "tags": "sliders, options, preferences, settings, panel, mixer, audio, music, input, range, equalizer, panel, tuning"
     },
     {
         "name": "spinner1",
         "file": "spinner1.svg",
         "sprite": "#spinner1",
-        "tags": ""
+        "tags": "spinner, loading, loader, sun"
     },
     {
         "name": "spinner2",
         "file": "spinner2.svg",
         "sprite": "#spinner2",
-        "tags": ""
+        "tags": "spinner, loading, loader, sun"
     },
     {
         "name": "stairs",
         "file": "stairs.svg",
         "sprite": "#stairs",
-        "tags": ""
+        "tags": "stairs, door, climb, up, down, staircase, steps, escalator, upgrade, promotion, next, 3d"
     },
     {
         "name": "star",
         "file": "star.svg",
         "sprite": "#star",
-        "tags": ""
+        "tags": "star, favorite, like, upvote, bookmark, rating, burst, winner, top, sparkle, twinkle, night, score"
     },
     {
         "name": "steering_wheel",
         "file": "steering_wheel.svg",
         "sprite": "#steering_wheel",
-        "tags": ""
+        "tags": "steering, wheel, ship, nautic, boat, navigation, sailing"
     },
     {
         "name": "sun",
         "file": "sun.svg",
         "sprite": "#sun",
-        "tags": ""
+        "tags": "sun, day, theme, bright, heat, light, white, energy, weather "
     },
     {
         "name": "switch",
         "file": "switch.svg",
         "sprite": "#switch",
-        "tags": ""
+        "tags": "switch, arrows, directions, swap, toggle, trade"
     },
     {
         "name": "tag",
         "file": "tag.svg",
         "sprite": "#tag",
-        "tags": ""
+        "tags": "tag, category, hash, tag"
     },
     {
         "name": "target",
         "file": "target.svg",
         "sprite": "#target",
-        "tags": ""
+        "tags": "target, arrow, bullseye, darts, circles, aim, crosshair, destination, map, marker, object, focus, purpose, marketing"
     },
     {
         "name": "target_cross",
         "file": "target_cross.svg",
         "sprite": "#target_cross",
-        "tags": ""
+        "tags": "target, arrow, bullseye, darts, circles, aim, crosshair, destination, map, marker, object, focus, purpose, marketing"
     },
     {
         "name": "target_cross_small",
         "file": "target_cross_small.svg",
         "sprite": "#target_cross_small",
-        "tags": ""
+        "tags": "target, arrow, bullseye, darts, circles, aim, crosshair, destination, map, marker, object, focus, purpose, marketing"
     },
     {
         "name": "textfile",
         "file": "textfile.svg",
         "sprite": "#textfile",
-        "tags": ""
+        "tags": "text, file, words, write, letter, txt, word, document"
     },
     {
         "name": "time",
         "file": "time.svg",
         "sprite": "#time",
-        "tags": ""
+        "tags": "time, watch, stop, timer, minutes, seconds, hours, timespan"
     },
     {
         "name": "tire",
         "file": "tire.svg",
         "sprite": "#tire",
-        "tags": ""
+        "tags": "tire, circle"
     },
     {
         "name": "toggle",
         "file": "toggle.svg",
         "sprite": "#toggle",
-        "tags": ""
+        "tags": "toggle, switch, control, selected, on"
     },
     {
         "name": "token",
         "file": "token.svg",
         "sprite": "#token",
-        "tags": ""
+        "tags": "token, donut, ethereum"
     },
     {
         "name": "toolkit",
         "file": "toolkit.svg",
         "sprite": "#toolkit",
-        "tags": ""
+        "tags": "toolkit, tools, maintenance, kit, repair, tackle, box, chest, container, craft"
     },
     {
         "name": "trash",
         "file": "trash.svg",
         "sprite": "#trash",
-        "tags": ""
+        "tags": "trash, bin, delete, empty"
     },
     {
         "name": "trezor",
         "file": "trezor.svg",
         "sprite": "#trezor",
-        "tags": ""
+        "tags": "trezor, blockchain, hardware, wallet"
     },
     {
         "name": "umbrella",
         "file": "umbrella.svg",
         "sprite": "#umbrella",
-        "tags": ""
+        "tags": "umbrella, rain, protection, mitigation, insurance, sun, weather, wet, shelter"
     },
     {
         "name": "unlink",
         "file": "unlink.svg",
         "sprite": "#unlink",
-        "tags": ""
+        "tags": "link, unlink, disconnect, seperate, 404, error, chain, broken"
     },
     {
         "name": "usb",
         "file": "usb.svg",
         "sprite": "#usb",
-        "tags": ""
+        "tags": "usb, plug, device, hardware"
     },
     {
         "name": "user",
         "file": "user.svg",
         "sprite": "#user",
-        "tags": ""
+        "tags": "user, account, avatar, member, profile, customer, person"
     },
     {
         "name": "user_add",
         "file": "user_add.svg",
         "sprite": "#user_add",
-        "tags": ""
+        "tags": "user, account, avatar, member, profile, customer, person, add, invite"
     },
     {
         "name": "view_grid",
         "file": "view_grid.svg",
         "sprite": "#view_grid",
-        "tags": ""
+        "tags": "grid, view, interface, sort"
     },
     {
         "name": "view_list",
         "file": "view_list.svg",
         "sprite": "#view_list",
-        "tags": ""
+        "tags": "list, view, interface, sort"
     },
     {
         "name": "visible",
         "file": "visible.svg",
         "sprite": "#visible",
-        "tags": ""
+        "tags": "visible, show, eye"
     },
     {
         "name": "warning",
         "file": "warning.svg",
         "sprite": "#warning",
-        "tags": ""
+        "tags": "warning, caution, danger, exclamation, notice, circle"
     },
     {
         "name": "wifi",
         "file": "wifi.svg",
         "sprite": "#wifi",
-        "tags": ""
+        "tags": "wifi, waves, network, connection"
     },
     {
         "name": "wifi2",
         "file": "wifi2.svg",
         "sprite": "#wifi2",
-        "tags": ""
+        "tags": "wifi, waves, network, connection"
     },
     {
         "name": "windows_layers",
         "file": "windows_layers.svg",
         "sprite": "#windows_layers",
-        "tags": ""
+        "tags": "windows, layers, box, overlay, modal, dialogue, popup, multitasking"
     },
     {
         "name": "woman",
         "file": "woman.svg",
         "sprite": "#woman",
-        "tags": ""
+        "tags": "woman, genders, feminine"
     },
     {
         "name": "woman2",
         "file": "woman2.svg",
         "sprite": "#woman2",
-        "tags": ""
+        "tags": "woman, genders, feminine"
     },
     {
         "name": "wrench",
         "file": "wrench.svg",
         "sprite": "#wrench",
-        "tags": ""
+        "tags": "wrench, tool, setup, craft, equipment, maintenance, repair"
     },
     {
         "name": "zoom_in",
         "file": "zoom_in.svg",
         "sprite": "#zoom_in",
-        "tags": ""
+        "tags": "zoom, in, enlarge, increase, expand, extend, augment, scale, up, open, magnifier, search"
     },
     {
         "name": "zoom_out",
         "file": "zoom_out.svg",
         "sprite": "#zoom_out",
-        "tags": ""
+        "tags": "zoom, out, reduce, thin, out, decrease, minimize, belittle, downsize, scale, down, smaller, magnifier, search"
     }
 ]
