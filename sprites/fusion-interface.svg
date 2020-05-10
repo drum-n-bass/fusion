@@ -370,6 +370,34 @@
 
 <symbol id="peace" viewBox="0 0 64 64" ><circle cx="32" cy="32" r="24"/><path d="M32 8v48M32 32L15.05 48.95M48.97 48.97L32 32"/></symbol>
 
+<symbol id="phone_cable" viewBox="0 0 64 64" ><path d="M53.26 54.62a4.09 4.09 0 0 0 2.51-5.22l-1.36-3.87A4.1 4.1 0 0 0 49.18 43c-7.73 2.71-10.45-5-11.81-8.88S33.3 22.55 41 19.83a4.1 4.1 0 0 0 2.51-5.22l-1.36-3.87A4.1 4.1 0 0 0 37 8.23c-9.66 3.4-14.1 9.3-7.31 28.63S43.6 58 53.26 54.62z"/><path d="M34.81 48.18A4 4 0 0 0 32 52a4 4 0 0 1-8 0 4 4 0 0 0-8 0 4 4 0 0 1-8 0"/></symbol>
+
+<symbol id="phone_chat" viewBox="0 0 64 64" ><rect x="18" y="8" width="28" height="48" rx="4"/><path d="M24 16h12M24 24h4M28 40h12M40 32h-8M28 48h-4"/></symbol>
+
+<symbol id="phone_chat_bubbles" viewBox="0 0 64 64" ><rect x="18" y="8" width="28" height="48" rx="4"/><path d="M35 28h-7l-4 2V17a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1zM29 48h7l4 2V37a1 1 0 0 0-1-1H29a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1z"/></symbol>
+
+<symbol id="phone_classic" viewBox="0 0 64 64" ><path d="M8 25a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4c0-4 4-4 8-4s8 0 8 4a4 4 0 0 0 4 4h8a4 4 0 0 0 4-4c0-10-4-14-24-14S8 15 8 25z"/><circle cx="32" cy="37" r="8"/><path d="M16 29l-3.91 11.73A9.32 9.32 0 0 0 20.94 53h22.12a9.32 9.32 0 0 0 8.85-12.27L48 29"/></symbol>
+
+<symbol id="phone_hand" viewBox="0 0 64 64" ><path d="M14.87 32a17.67 17.67 0 0 1 0-25M20 26.87a10.41 10.41 0 0 1 0-14.71M28 30l-5.43 5.43a8.77 8.77 0 0 0-2.57 6.2V52"/><path d="M40 56h9a3 3 0 0 0 3-3V19a3 3 0 0 0-3-3H31a3 3 0 0 0-3 3v19.33a2 2 0 0 0 3.42 1.42l4.46-4.45a3.23 3.23 0 0 1 4.41-.24 3.12 3.12 0 0 1 .12 4.53l-3.29 3.29a9.83 9.83 0 0 0-2.88 7h0a6.25 6.25 0 0 1-6.24 6.2h0M39 52h2M36 20h8"/></symbol>
+
+<symbol id="phone_keys" viewBox="0 0 64 64" ><path d="M50.19 20.6a3.33 3.33 0 0 0-4.62.8l-1.9 2.71a3.31 3.31 0 0 0 .8 4.61c5.41 3.81 1.59 9.22-.31 11.93S38.44 48.76 33 45a3.31 3.31 0 0 0-4.61.8l-1.91 2.7a3.31 3.31 0 0 0 .8 4.61C34.07 57.83 40 58 49.57 44.46s7.43-19.09.62-23.86zM8 8h6v6H8zM20 8h6v6h-6zM32 8h6v6h-6zM8 20h6v6H8zM20 20h6v6h-6zM32 20h6v6h-6zM8 32h6v6H8zM20 32h6v6h-6z"/><path d="M32 32h6v6h-6z"/></symbol>
+
+<symbol id="phone_mobile" viewBox="0 0 64 64" ><rect x="18" y="8" width="28" height="48" rx="4"/><path d="M28 12h8M30 52h4"/></symbol>
+
+<symbol id="phone_mobile_keys" viewBox="0 0 64 64" ><rect x="16" y="8" width="32" height="48" rx="4"/><path d="M24 48h2M38 48h2M31 48h2M24 40h2M38 40h2M31 40h2M24 32h2M38 32h2M31 32h2M16 24h32"/></symbol>
+
+<symbol id="phone_mobile_ring" viewBox="0 0 64 64" ><path d="M49 15a24 24 0 0 1 0 34M42 22a14.15 14.15 0 0 1 0 20"/><rect x="8" y="8" width="28" height="48" rx="4"/><path d="M18 12h8M20 52h4"/></symbol>
+
+<symbol id="phone_mobile_user" viewBox="0 0 64 64" ><rect x="18" y="8" width="28" height="48" rx="4"/><path d="M28 12h8M30 52h4"/><ellipse cx="32" cy="29.35" rx="3.98" ry="5.3"/><path d="M28.67 32.48s-3.34.89-4 2.65a10.88 10.88 0 0 0-.62 4.87H40a10.88 10.88 0 0 0-.64-4.82c-.64-1.76-4-2.65-4-2.65"/></symbol>
+
+<symbol id="phone_numpad" viewBox="0 0 64 64" ><circle cx="13" cy="13" r="5"/><circle cx="13" cy="51" r="5"/><circle cx="13" cy="32" r="5"/><circle cx="51" cy="13" r="5"/><circle cx="51" cy="51" r="5"/><circle cx="51" cy="32" r="5"/><circle cx="32" cy="13" r="5"/><circle cx="32" cy="51" r="5"/><circle cx="32" cy="32" r="5"/></symbol>
+
+<symbol id="phone_office" viewBox="0 0 64 64" ><rect x="8" y="8" width="16" height="48" rx="4"/><path d="M24 12h28a4 4 0 0 1 4 4v32a4 4 0 0 1-4 4H24M32 44h2M46 44h2M39 44h2M32 36h2M46 36h2M39 36h2M32 28h2M46 28h2M39 28h2"/><path d="M48 12v8H32v-8"/></symbol>
+
+<symbol id="phone_ring" viewBox="0 0 64 64" ><path d="M24 56a4 4 0 0 0 4-4v-4a4 4 0 0 0-4-4c-8 0-8-8-8-12s0-12 8-12a4 4 0 0 0 4-4v-4a4 4 0 0 0-4-4C14 8 8 12 8 32s6 24 16 24zM47.4 52a27.33 27.33 0 0 0 0-38.63M39.67 44.27a16.38 16.38 0 0 0 0-23.17M32 36.55a5.47 5.47 0 0 0 0-7.73"/></symbol>
+
+<symbol id="phone_video_pc" viewBox="0 0 64 64" ><rect x="8" y="9" width="48" height="39" rx="3"/><path d="M8 40h48"/><ellipse cx="32" cy="23.97" rx="5.98" ry="7.97"/><path d="M44 39.9a16.29 16.29 0 0 0-1-7.24c-1-2.65-6-4-6-4M27 28.68s-5 1.33-6 4a16.29 16.29 0 0 0-1 7.24"/><path d="M30 44h4"/><path d="M40 56c-4-4-4-8-4-8M28 48s0 4-4 8"/></symbol>
+
 <symbol id="pie" viewBox="0 0 64 64" ><path d="M8 47.17v-24l24-12 24 12v24h0a53.69 53.69 0 0 1-48 0z"/><path d="M56 23.17h0a53.69 53.69 0 0 1-48 0h0"/></symbol>
 
 <symbol id="pie_chart" viewBox="0 0 64 64" ><circle cx="32" cy="32" r="24"/><path d="M32 8v24M56 32H32M15.03 48.97L32 32"/></symbol>

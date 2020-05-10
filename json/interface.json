@@ -1110,6 +1110,90 @@
         "tags": "peace, psychedelic, pacifist, hippy, freedom, 60s, harmony, unity"
     },
     {
+        "name": "phone_cable",
+        "file": "phone_cable.svg",
+        "sprite": "#phone_cable",
+        "tags": "phone, cable, call, talk, communication, mobile, chat, line"
+    },
+    {
+        "name": "phone_chat",
+        "file": "phone_chat.svg",
+        "sprite": "#phone_chat",
+        "tags": "phone, cable, call, talk, communication, mobile, chat, line, whatsapp, telegram, sms"
+    },
+    {
+        "name": "phone_chat_bubbles",
+        "file": "phone_chat_bubbles.svg",
+        "sprite": "#phone_chat_bubbles",
+        "tags": "phone, cable, call, talk, communication, mobile, chat, line, whatsapp, telegram, sms"
+    },
+    {
+        "name": "phone_classic",
+        "file": "phone_classic.svg",
+        "sprite": "#phone_classic",
+        "tags": "phone, cable, call, talk, communication, mobile, chat, line"
+    },
+    {
+        "name": "phone_hand",
+        "file": "phone_hand.svg",
+        "sprite": "#phone_hand",
+        "tags": "phone, cable, call, talk, communication, mobile, chat, line"
+    },
+    {
+        "name": "phone_keys",
+        "file": "phone_keys.svg",
+        "sprite": "#phone_keys",
+        "tags": "phone, cable, call, talk, communication, mobile, chat, line"
+    },
+    {
+        "name": "phone_mobile",
+        "file": "phone_mobile.svg",
+        "sprite": "#phone_mobile",
+        "tags": "phone, cable, call, talk, communication, mobile, chat, line"
+    },
+    {
+        "name": "phone_mobile_keys",
+        "file": "phone_mobile_keys.svg",
+        "sprite": "#phone_mobile_keys",
+        "tags": "phone, cable, call, talk, communication, mobile, chat, line"
+    },
+    {
+        "name": "phone_mobile_ring",
+        "file": "phone_mobile_ring.svg",
+        "sprite": "#phone_mobile_ring",
+        "tags": "phone, cable, call, talk, communication, mobile, chat, line"
+    },
+    {
+        "name": "phone_mobile_user",
+        "file": "phone_mobile_user.svg",
+        "sprite": "#phone_mobile_user",
+        "tags": "phone, cable, call, talk, communication, mobile, chat, line"
+    },
+    {
+        "name": "phone_numpad",
+        "file": "phone_numpad.svg",
+        "sprite": "#phone_numpad",
+        "tags": "phone, cable, call, talk, communication, mobile, chat, line, numpad"
+    },
+    {
+        "name": "phone_office",
+        "file": "phone_office.svg",
+        "sprite": "#phone_office",
+        "tags": "phone, cable, call, talk, communication, mobile, chat, line"
+    },
+    {
+        "name": "phone_ring",
+        "file": "phone_ring.svg",
+        "sprite": "#phone_ring",
+        "tags": "phone, cable, call, talk, communication, mobile, chat, line"
+    },
+    {
+        "name": "phone_video_pc",
+        "file": "phone_video_pc.svg",
+        "sprite": "#phone_video_pc",
+        "tags": "phone, cable, call, talk, communication, mobile, chat, line"
+    },
+    {
         "name": "pie",
         "file": "pie.svg",
         "sprite": "#pie",
