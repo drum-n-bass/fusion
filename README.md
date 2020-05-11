@@ -71,7 +71,7 @@ const ReactFunction = () => (
 JSON Data
 ----
 
-coins.json is a fetch from coinmarketcap's top 500 coins, where i add some metadata to have the information about physical file name, spritename, and if i already did an icon at all for this currency.
+data/coins.json is a fetch from coinmarketcap's top 500 coins, where i add some metadata to have the information about physical file name, spritename, and if i already did an icon at all for this currency.
 
 
 ```json
@@ -85,14 +85,15 @@ coins.json is a fetch from coinmarketcap's top 500 coins, where i add some metad
 }
 ```
 
-interface.json is a generated json from the /interface folder to have all icons available with name, spritename and physical file name.
+data/interface.json is a generated json from the /interface folder to have all icons available with name, spritename and physical file name. There are tags to find icons.
 
 
 ```json
     {
-        "name": "alarm",
-        "file": "alarm.svg",
-        "sprite": "#alarm"
+        "name": "day",
+        "file": "day.svg",
+        "sprite": "#day",
+        "tags": "sun, day, weather, theme, light"
     }
 ```
 

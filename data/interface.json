@@ -714,6 +714,162 @@
         "tags": "export, share, push, commit, arrow, upload"
     },
     {
+        "name": "file_3d",
+        "file": "file_3d.svg",
+        "sprite": "#file_3d",
+        "tags": "file, type, 3d, mesh, vector"
+    },
+    {
+        "name": "file_audio_cd",
+        "file": "file_audio_cd.svg",
+        "sprite": "#file_audio_cd",
+        "tags": "file, type, audio, cd, music, album, record, sound"
+    },
+    {
+        "name": "file_audio_record",
+        "file": "file_audio_record.svg",
+        "sprite": "#file_audio_record",
+        "tags": "file, type, record, voice, memo, audio, speech, wave, sound"
+    },
+    {
+        "name": "file_audio_wave",
+        "file": "file_audio_wave.svg",
+        "sprite": "#file_audio_wave",
+        "tags": "file, type, wave, audio, recording, sound"
+    },
+    {
+        "name": "file_book",
+        "file": "file_book.svg",
+        "sprite": "#file_book",
+        "tags": "file, type, book, flyer, prospect, handout"
+    },
+    {
+        "name": "file_bookmark",
+        "file": "file_bookmark.svg",
+        "sprite": "#file_bookmark",
+        "tags": "file, type, bookmark, favorite, like"
+    },
+    {
+        "name": "file_camera",
+        "file": "file_camera.svg",
+        "sprite": "#file_camera",
+        "tags": "file, type, video, media, camera, avi, mpeg, mp4, mkv, 4k, 720p"
+    },
+    {
+        "name": "file_chart_bar",
+        "file": "file_chart_bar.svg",
+        "sprite": "#file_chart_bar",
+        "tags": "file, type, chart, bar, diagram"
+    },
+    {
+        "name": "file_chart_pie",
+        "file": "file_chart_pie.svg",
+        "sprite": "#file_chart_pie",
+        "tags": "file, type, chart, pie, diagram"
+    },
+    {
+        "name": "file_code",
+        "file": "file_code.svg",
+        "sprite": "#file_code",
+        "tags": "file, type, code, script, html, css, php, js, python, ruby, react, vue"
+    },
+    {
+        "name": "file_config",
+        "file": "file_config.svg",
+        "sprite": "#file_config",
+        "tags": "file, type, config, setup"
+    },
+    {
+        "name": "file_database",
+        "file": "file_database.svg",
+        "sprite": "#file_database",
+        "tags": "file, type, database, storage, sql"
+    },
+    {
+        "name": "file_email",
+        "file": "file_email.svg",
+        "sprite": "#file_email",
+        "tags": "file, type, email, message, letter"
+    },
+    {
+        "name": "file_empty",
+        "file": "file_empty.svg",
+        "sprite": "#file_empty",
+        "tags": "file, type, empty, plain, raw"
+    },
+    {
+        "name": "file_excel",
+        "file": "file_excel.svg",
+        "sprite": "#file_excel",
+        "tags": "file, type, excel, table, csv, office, microsoft"
+    },
+    {
+        "name": "file_game",
+        "file": "file_game.svg",
+        "sprite": "#file_game",
+        "tags": "file, type, game"
+    },
+    {
+        "name": "file_image",
+        "file": "file_image.svg",
+        "sprite": "#file_image",
+        "tags": "file, type, image, media, jpg, jpeg, png, gif, photo, gallery"
+    },
+    {
+        "name": "file_pdf",
+        "file": "file_pdf.svg",
+        "sprite": "#file_pdf",
+        "tags": "file, type, pdf, acrobat, reader"
+    },
+    {
+        "name": "file_powerpoint",
+        "file": "file_powerpoint.svg",
+        "sprite": "#file_powerpoint",
+        "tags": "file, type, powerpoint, presentation, slide, pitch, deck, office, microsoft"
+    },
+    {
+        "name": "file_protected",
+        "file": "file_protected.svg",
+        "sprite": "#file_protected",
+        "tags": "file, type, private, protected, password, encrypted"
+    },
+    {
+        "name": "file_shell",
+        "file": "file_shell.svg",
+        "sprite": "#file_shell",
+        "tags": "file, type, shell, script, batch, sh"
+    },
+    {
+        "name": "file_text",
+        "file": "file_text.svg",
+        "sprite": "#file_text",
+        "tags": "file, type, text, txt, rm, read, me, info, rtf"
+    },
+    {
+        "name": "file_vcard",
+        "file": "file_vcard.svg",
+        "sprite": "#file_vcard",
+        "tags": "file, type, contact, vcard, profile"
+    },
+    {
+        "name": "file_video",
+        "file": "file_video.svg",
+        "sprite": "#file_video",
+        "tags": "file, type, video, media, camera, avi, mpeg, mp4, mkv, 4k, 720p"
+    },
+    {
+        "name": "file_word",
+        "file": "file_word.svg",
+        "sprite": "#file_word",
+        "tags": "file, type, word, text, office, microsoft"
+    },
+    {
+        "name": "file_zip",
+        "file": "file_zip.svg",
+        "sprite": "#file_zip",
+        "tags": "file, type, archive, zip, rar, package"
+    },
+    {
         "name": "fingernail",
         "file": "fingernail.svg",
         "sprite": "#fingernail",
