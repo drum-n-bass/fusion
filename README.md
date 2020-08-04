@@ -4,6 +4,15 @@ What is Fusion?
 Fusion is a collection of simply beautiful open source icons. It includes the Top Tokens/Chains Symbols and a lot of usefull Interface Icons. As its made out of pure lines, you can finetune it with css attributes: stroke-width and stroke. This pack grow over time. Checkout the offical Homepage here : https://fusion.li
 
 
+Fusion for Figma
+----
+[`fusion.fig`](fusion.fig)
+[`online`](https://www.figma.com/file/dTKaMVvSkwHXTHQNtvvT7O/fusion?node-id=0%3A1)
+
+Fusion for Sketch
+----
+[`fusion.sketch`](fusion.sketch)
+
 Using SVG Sprites
 ----
 
