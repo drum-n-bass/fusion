@@ -238,6 +238,8 @@
 
 <symbol id="export" viewBox="0 0 64 64" ><path d="M48 24L32 8 16 24M56 56H8M32 48V8"/></symbol>
 
+<symbol id="facebook" viewBox="0 0 64 64" ><path d="M28 56V20Q28 8 40 8M40 24H22"/></symbol>
+
 <symbol id="file_3d" viewBox="0 0 64 64" ><path d="M44 8v8h8"/><path d="M52 16l-8-8H12v48h40V16z"/><path d="M20 26v12l12 6 12-6V26l-12-6-12 6zM32 32l12-6M32 44V32M44 38l-12-6M20 38l12-6M20 26l12 6M32 20v12"/></symbol>
 
 <symbol id="file_audio_cd" viewBox="0 0 64 64" ><path d="M44 8v8h8"/><path d="M52 16l-8-8H12v48h40V16z"/><circle cx="32" cy="32" r="4"/><circle cx="32" cy="32" r="12"/></symbol>
@@ -312,6 +314,8 @@
 
 <symbol id="gift" viewBox="0 0 64 64" ><path d="M32 20h0c-6 0-12 0-12-6a6 6 0 0 1 6-6c6 0 6 8 6 12zM32 20h0c6 0 12 0 12-6a6 6 0 0 0-6-6c-6 0-6 8-6 12zM12 32v24h40V32M8 20h48v12H8zM32 20v36"/></symbol>
 
+<symbol id="gitcoin" viewBox="0 0 64 64" ><path d="M42.26 29.78A11.85 11.85 0 0144 36a12 12 0 01-2.08 6.76"/><circle cx="32" cy="36" r="4"/><path d="M35.43 38.06L49.15 48v8H32a20 20 0 1117.15-30.29l-13.72 8.23M32 8v8M24 8v20"/></symbol>
+
 <symbol id="gitcoin_kudos" viewBox="0 0 64 64" ><path d="M56 44V20L32 8 8 20v24l24 12 24-12z"/><path d="M44 38V26l-12-6-12 6v12l12 6 12-6z"/></symbol>
 
 <symbol id="github" viewBox="0 0 64 64" ><path d="M20 56a4 4 0 0 0 4-4 8 8 0 0 1 2.35-5.67s-13.69-1.53-16.6-7.41A21.67 21.67 0 0 1 8 29.42 17.23 17.23 0 0 1 11.9 18a15.43 15.43 0 0 1-.77-4.82C11.13 11 11 10 12 8c4.48 0 8 .85 11.37 3.52A39.58 39.58 0 0 1 32 10.7a39.58 39.58 0 0 1 8.63.82C44 8.85 47.52 8 52 8c1 1.95.87 3 .87 5.18A15.43 15.43 0 0 1 52.1 18 17.23 17.23 0 0 1 56 29.42a21.67 21.67 0 0 1-1.75 9.5c-2.91 5.88-16.6 7.41-16.6 7.41A8 8 0 0 1 40 52a4 4 0 0 0 4 4"/><path d="M24 50.88c-4 2-6.31-.43-8.75-2S11 46.75 8 48"/><ellipse cx="22.81" cy="31.72" rx="3.19" ry="4.82"/><ellipse cx="41.19" cy="31.72" rx="3.19" ry="4.82"/></symbol>
@@ -365,6 +369,8 @@
 <symbol id="link1" viewBox="0 0 64 64" ><path d="M28 44h-8A12 12 0 0 1 8 32h0a12 12 0 0 1 12-12h8M36 20h8a12 12 0 0 1 12 12h0a12 12 0 0 1-12 12h-8M20 32h24"/></symbol>
 
 <symbol id="link2" viewBox="0 0 64 64" ><path d="M24 44h-4A12 12 0 0 1 8 32h0a12 12 0 0 1 12-12h4M40 20h4a12 12 0 0 1 12 12h0a12 12 0 0 1-12 12h-4M32 16v32"/></symbol>
+
+<symbol id="linkedin" viewBox="0 0 64 64" ><path d="M53 56V32M23 56V20M23 32c0-6.63 6.72-12 15-12s15 5.37 15 12M11 8v6M11 20v36"/></symbol>
 
 <symbol id="list" viewBox="0 0 64 64" ><path d="M20 16h36M20 32h36M20 48h36M8 16h4M8 32h4M8 48h4"/></symbol>
 
@@ -456,6 +462,8 @@
 
 <symbol id="pin" viewBox="0 0 64 64" ><path d="M8 56l16-16M52 28l4-4-4-4-8-8-4-4-4 4a5.66 5.66 0 0 0 0 8h0l-8 8h0a11.31 11.31 0 0 0-16 0h0l23.94 24.12L36 52a11.36 11.36 0 0 0 0-16h0l8-8h0a5.66 5.66 0 0 0 8 0z"/></symbol>
 
+<symbol id="pintrest" viewBox="0 0 64 64" ><path d="M17.6 56s19.2-28.8 14.78-36.32c-2.12-3.61-10-2.08-4.91 15.64 3.82 13.35 23.73 5.31 23.73-8.12a19.2 19.2 0 1 0-32.78 13.58"/></symbol>
+
 <symbol id="play" viewBox="0 0 64 64" ><circle cx="32" cy="32" r="24"/><path d="M28 40l8-8-8-8"/></symbol>
 
 <symbol id="play_video" viewBox="0 0 64 64" ><rect x="8" y="12" width="48" height="40" rx="11.96"/><path d="M28 40l8-8-8-8"/></symbol>
@@ -508,6 +516,8 @@
 
 <symbol id="sign2" viewBox="0 0 64 64" ><path d="M32 40H16l-8-8 8-8h16M32 56V8h16l8 8-8 8H32"/></symbol>
 
+<symbol id="skype" viewBox="0 0 64 64" ><path d="M53.85 34.55A21.55 21.55 0 0 0 54 32a22 22 0 0 0-22-22 21.55 21.55 0 0 0-2.55.15 14 14 0 0 0-19.3 19.3A21.55 21.55 0 0 0 10 32a22 22 0 0 0 22 22 21.55 21.55 0 0 0 2.55-.15 14 14 0 0 0 19.3-19.3z"/><path d="M40 26c0-2 0-6-8-6-4 0-8 0-8 6 0 10 16 2 16 12 0 6-4 6-8 6-8 0-8-4-8-6" stroke-linecap="round"/></symbol>
+
 <symbol id="sliders" viewBox="0 0 64 64" ><path d="M16 8v48M48 8v48M32 8v48M8 48h16M24 20h16M40 40h16"/></symbol>
 
 <symbol id="spinner1" viewBox="0 0 64 64" ><path d="M32 8v8M32 56v-8M56 32h-8M8 32h8M48.97 15.03l-5.66 5.66M15.03 48.97l5.66-5.66M48.97 48.97l-5.66-5.66M15.03 15.03l5.66 5.66"/></symbol>
@@ -532,6 +542,8 @@
 
 <symbol id="target_cross_small" viewBox="0 0 64 64" ><circle cx="32" cy="32" r="16"/><path d="M32 8v16M32 40v16M56 32H40M8 32h16"/></symbol>
 
+<symbol id="telegram" viewBox="0 0 64 64" ><path d="M40 28L27.88 41.92M48 56l8-48L8 28l40 28z"/></symbol>
+
 <symbol id="textfile" viewBox="0 0 64 64" ><path d="M12 8h40v48H12zM20 32h24M20 20h24M20 44h24"/></symbol>
 
 <symbol id="time" viewBox="0 0 64 64" ><circle cx="32" cy="32" r="24"/><path d="M40 44l-8-12V16"/></symbol>
@@ -547,6 +559,8 @@
 <symbol id="trash" viewBox="0 0 64 64" ><path d="M52 16l-4 40H16l-4-40M20 16v-3.94A4.06 4.06 0 0 1 24.06 8h15.88A4.06 4.06 0 0 1 44 12.06V16M8 16h48M24 28l16 16M40 28L24 44"/></symbol>
 
 <symbol id="trezor" viewBox="0 0 64 64" ><path d="M24.71 25.82L16 28v20l16 8 16-8V28l-8.71-2.18a30.22 30.22 0 0 0-14.58 0z"/><path d="M20 27v-7a12 12 0 0 1 24 0v7"/></symbol>
+
+<symbol id="twitter" viewBox="0 0 64 64" ><path d="M56 16.46a67.49 67.49 0 0 0-8.11-.73 9.75 9.75 0 0 0-16.56 8.91c-8.08-.41-14.2-4.56-19.92-10.73-.78 1.52-2.26 6.37-1.11 9.87a19.1 19.1 0 0 0 6.75 8.59 26.05 26.05 0 0 1-8.52-1.85c1.41 4.63 6.25 11.35 13.86 12.4a19.46 19.46 0 0 1-12.07 4.19A19.66 19.66 0 0 1 8 47a27.42 27.42 0 0 0 14.9 4.39c17.87 0 27.65-14.89 27.65-27.81v-1.27z"/></symbol>
 
 <symbol id="umbrella" viewBox="0 0 64 64" ><path d="M56 32H8c0-11 10.75-20 24-20s24 9 24 20zM32 52a4 4 0 0 1-8 0M32 32v20M32 8v4"/></symbol>
 
@@ -577,6 +591,8 @@
 <symbol id="woman2" viewBox="0 0 64 64" ><circle cx="32" cy="22" r="14"/><path d="M32 36v24M40 48H24"/></symbol>
 
 <symbol id="wrench" viewBox="0 0 64 64" ><path d="M55.52 18.37l-3.35 3.36a7 7 0 1 1-9.9-9.9l3.36-3.36A14.51 14.51 0 0 0 42 8a14 14 0 0 0-13.19 18.7L10.34 42.34a8 8 0 0 0 11.32 11.32L37.3 35.19a14 14 0 0 0 18.22-16.82z"/></symbol>
+
+<symbol id="youtube" viewBox="0 0 64 64" ><path d="M55.16 20.42A5.94 5.94 0 0 0 50 15.6c-6-.38-12-.69-18-.7s-12 .3-18 .68a5.94 5.94 0 0 0-5.17 4.82 79.25 79.25 0 0 0 0 22.88 6.17 6.17 0 0 0 5.19 5c6 .38 12 .77 18 .77s12-.34 18-.73a6.24 6.24 0 0 0 5.18-5.1 78.19 78.19 0 0 0 .8-11.38 78 78 0 0 0-.84-11.42zm-28.6 18.31V24.79l13 7z"/></symbol>
 
 <symbol id="zoom_in" viewBox="0 0 64 64" ><circle cx="28" cy="28" r="20"/><path d="M56 56L42.14 42.14M16 28h24M28 16v24"/></symbol>
 
