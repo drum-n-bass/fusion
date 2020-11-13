@@ -612,6 +612,11 @@
         "tags": "gem, expensive, jewel, vip, ruby, crystal, jewelry, brilliant, quality, glas"
     },
     {
+        "name": "discord",
+        "file": "discord.svg",
+        "sprite": "#discord"
+    },
+    {
         "name": "display",
         "file": "display.svg",
         "sprite": "#display",
@@ -712,6 +717,12 @@
         "file": "export.svg",
         "sprite": "#export",
         "tags": "export, share, push, commit, arrow, upload"
+    },
+    {
+        "name": "facebook",
+        "file": "facebook.svg",
+        "sprite": "#facebook",
+        "tags": "social, media, facebook"
     },
     {
         "name": "file_3d",
@@ -936,6 +947,12 @@
         "tags": "gift, birthday, present, product, ribbon, box, bonus, celebration, surprise, reward, carton, present, love, valentine, bag, wrap, send"
     },
     {
+        "name": "gitcoin",
+        "file": "gitcoin.svg",
+        "sprite": "#gitcoin",
+        "tags": ""
+    },
+    {
         "name": "gitcoin_kudos",
         "file": "gitcoin_kudos.svg",
         "sprite": "#gitcoin_kudos",
@@ -1096,6 +1113,12 @@
         "file": "link2.svg",
         "sprite": "#link2",
         "tags": "link, chain, connect, url, a, href, hyperlink"
+    },
+    {
+        "name": "linkedin",
+        "file": "linkedin.svg",
+        "sprite": "#linkedin",
+        "tags": "social, media, linkedin"
     },
     {
         "name": "list",
@@ -1368,6 +1391,12 @@
         "tags": "pin, important, stick, fix, needle, favorite, area, navigation"
     },
     {
+        "name": "pintrest",
+        "file": "pintrest.svg",
+        "sprite": "#pintrest",
+        "tags": "social, media, pintrest"
+    },
+    {
         "name": "play",
         "file": "play.svg",
         "sprite": "#play",
@@ -1524,6 +1553,12 @@
         "tags": "sign, direction, goal, road, post"
     },
     {
+        "name": "skype",
+        "file": "skype.svg",
+        "sprite": "#skype",
+        "tags": "social, media, skype"
+    },
+    {
         "name": "sliders",
         "file": "sliders.svg",
         "sprite": "#sliders",
@@ -1596,6 +1631,12 @@
         "tags": "target, arrow, bullseye, darts, circles, aim, crosshair, destination, map, marker, object, focus, purpose, marketing"
     },
     {
+        "name": "telegram",
+        "file": "telegram.svg",
+        "sprite": "#telegram",
+        "tags": "social, media, telegram"
+    },
+    {
         "name": "textfile",
         "file": "textfile.svg",
         "sprite": "#textfile",
@@ -1642,6 +1683,12 @@
         "file": "trezor.svg",
         "sprite": "#trezor",
         "tags": "trezor, blockchain, hardware, wallet"
+    },
+    {
+        "name": "twitter",
+        "file": "twitter.svg",
+        "sprite": "#twitter",
+        "tags": "social, media, twitter"
     },
     {
         "name": "umbrella",
@@ -1732,6 +1779,12 @@
         "file": "wrench.svg",
         "sprite": "#wrench",
         "tags": "wrench, tool, setup, craft, equipment, maintenance, repair"
+    },
+    {
+        "name": "youtube",
+        "file": "youtube.svg",
+        "sprite": "#youtube",
+        "tags": "social, media, youtube"
     },
     {
         "name": "zoom_in",
