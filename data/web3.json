@@ -1,0 +1,146 @@
+[
+    {
+        "name": "arkane",
+        "file": "arkane.svg",
+        "sprite": "#arkane",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "authereum",
+        "file": "authereum.svg",
+        "sprite": "#authereum",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "bitski",
+        "file": "bitski.svg",
+        "sprite": "#bitski",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "burnerwallet",
+        "file": "burnerwallet.svg",
+        "sprite": "#burnerwallet",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "cipher",
+        "file": "cipher.svg",
+        "sprite": "#cipher",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "coinbase",
+        "file": "coinbase.svg",
+        "sprite": "#coinbase",
+        "tags": "wallet, provider, exchange"
+    },
+    {
+        "name": "dapper",
+        "file": "dapper.svg",
+        "sprite": "#dapper",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "dcentwallet",
+        "file": "dcentwallet.svg",
+        "sprite": "#dcentwallet",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "fortmatic",
+        "file": "fortmatic.svg",
+        "sprite": "#fortmatic",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "frame",
+        "file": "frame.svg",
+        "sprite": "#frame",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "imtoken",
+        "file": "imtoken.svg",
+        "sprite": "#imtoken",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "liquality",
+        "file": "liquality.svg",
+        "sprite": "#liquality",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "metamask",
+        "file": "metamask.svg",
+        "sprite": "#metamask",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "mewwallet",
+        "file": "mewwallet.svg",
+        "sprite": "#mewwallet",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "niftywallet",
+        "file": "niftywallet.svg",
+        "sprite": "#niftywallet",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "opera",
+        "file": "opera.svg",
+        "sprite": "#opera",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "portis",
+        "file": "portis.svg",
+        "sprite": "#portis",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "safe",
+        "file": "safe.svg",
+        "sprite": "#safe",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "squarelink",
+        "file": "squarelink.svg",
+        "sprite": "#squarelink",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "status",
+        "file": "status.svg",
+        "sprite": "#status",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "tokenary",
+        "file": "tokenary.svg",
+        "sprite": "#tokenary",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "torus",
+        "file": "torus.svg",
+        "sprite": "#torus",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "trust",
+        "file": "trust.svg",
+        "sprite": "#trust",
+        "tags": "wallet, provider"
+    },
+    {
+        "name": "walletconnect",
+        "file": "walletconnect.svg",
+        "sprite": "#walletconnect",
+        "tags": "wallet, provider"
+    }
+]
