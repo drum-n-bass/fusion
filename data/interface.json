@@ -300,15 +300,15 @@
         "tags": "connect, blue, tooth, wireless, transfer"
     },
     {
-        "name": "book-185",
-        "file": "book-185.svg",
-        "sprite": "#book-185",
+        "name": "book-184",
+        "file": "book-184.svg",
+        "sprite": "#book-184",
         "tags": "book, open, album, booklet, brochure, dictionary, edition, essay, fiction, magazine, manual, novel, publication, text, textbook, writing, atlas, codex, compendium, folio, hardcover, lexicon, reader, print"
     },
     {
-        "name": "book-34",
-        "file": "book-34.svg",
-        "sprite": "#book-34",
+        "name": "book-33",
+        "file": "book-33.svg",
+        "sprite": "#book-33",
         "tags": "book, open, album, booklet, brochure, dictionary, edition, essay, fiction, magazine, manual, novel, publication, text, textbook, writing, atlas, codex, compendium, folio, hardcover, lexicon, reader, print"
     },
     {
@@ -614,7 +614,8 @@
     {
         "name": "discord",
         "file": "discord.svg",
-        "sprite": "#discord"
+        "sprite": "#discord",
+        "tags": ""
     },
     {
         "name": "display",
@@ -945,12 +946,6 @@
         "file": "gift.svg",
         "sprite": "#gift",
         "tags": "gift, birthday, present, product, ribbon, box, bonus, celebration, surprise, reward, carton, present, love, valentine, bag, wrap, send"
-    },
-    {
-        "name": "gitcoin",
-        "file": "gitcoin.svg",
-        "sprite": "#gitcoin",
-        "tags": ""
     },
     {
         "name": "gitcoin_kudos",

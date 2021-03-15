@@ -1,22 +1,18 @@
-What is Fusion?
+Making the web(3) more beautiful, fast, and open through great iconography.
 ----
 
-Fusion is a collection of simply beautiful open source icons. It includes the Top Tokens/Chains Symbols and a lot of usefull Interface Icons. As its made out of pure lines, you can finetune it with css attributes: stroke-width and stroke. This pack grow over time. Checkout the offical Homepage here : https://fusion.li
+I believe the best way to bring personality and performance to websites and products is through great design and technology. My goal is to make that process simple, by offering an intuitive and robust collection of open source icons. By using fusion, you can integrate icons seamless and however you prefer.
 
 
 Fusion for Figma
 ----
-[`fusion.fig`](fusion.fig)
-[`online`](https://www.figma.com/file/dTKaMVvSkwHXTHQNtvvT7O/fusion?node-id=0%3A1)
+[`online`](https://www.figma.com/file/SQPTWYnxQv3188UUmKBPIv/fusion)
 
-Fusion for Sketch
-----
-[`fusion.sketch`](fusion.sketch)
 
 Using SVG Sprites
 ----
 
-Download based on your needs [`fusion-coins.svg`](sprites/fusion-coins.svg) and / or [`fusion-interface.svg`](sprites/fusion-interface.svg) to your project.
+Download based on your needs [`fusion-coins.svg`](sprites/fusion-coins.svg) / [`fusion-interface.svg`](sprites/fusion-interface.svg) / [`fusion-web3.svg`](sprites/fusion-web3.svg) to your project.
 
 Define CSS
 
@@ -42,6 +38,9 @@ Use the spritesheet what contains the icons you need ( interface.svg or coins.sv
 </svg>
 <svg class="fusion">
 <use xlink:href="sprites/fusion-coins.svg#BTC_1"></use>
+</svg>
+<svg class="fusion">
+<use xlink:href="sprites/fusion-web3.svg#coinbase"></use>
 </svg>
 }
 ```
@@ -105,21 +104,6 @@ data/interface.json is a generated json from the /interface folder to have all i
         "tags": "sun, day, weather, theme, light"
     }
 ```
-
-
-
-
-You can help!
-----
-
-Please consider support this open source project on Gitcoin Grands / a direct donation [here](https://fusion.li/donate).
-
-
-File naming convention
-----
-
-I go with the Coinmarketcap format's : [symbol] + _ + [cmcId] + .svg
-Example : ETH_1027.svg or XRP_52
 
 
 
