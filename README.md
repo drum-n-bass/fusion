@@ -9,6 +9,11 @@ Fusion for Figma
 [`online`](https://www.figma.com/file/SQPTWYnxQv3188UUmKBPIv/fusion)
 
 
+Demo
+----
+You can see a demo [here](https://fusion.li).
+
+
 Using SVG Sprites
 ----
 
@@ -76,41 +81,6 @@ const ReactFunction = () => (
 ```
 
 
-JSON Data
-----
-
-data/coins.json is a fetch from coinmarketcap's top 500 coins, where i add some metadata to have the information about physical file name, spritename, and if i already did an icon at all for this currency.
-
-
-```json
-{
-	"name": "Bitcoin",
-	"symbol": "BTC",
-	"cmcId": 1,
-	"exists": true, 
-	"file": "BTC_1.svg", 
-	"sprite": "#BTC_1"
-}
-```
-
-data/interface.json is a generated json from the /interface folder to have all icons available with name, spritename and physical file name. There are tags to find icons.
-
-
-```json
-    {
-        "name": "day",
-        "file": "day.svg",
-        "sprite": "#day",
-        "tags": "sun, day, weather, theme, light"
-    }
-```
-
-
-
-Demo
-----
-
-You can see a demo [here](https://fusion.li).
 
 
 
