@@ -51,6 +51,30 @@ Use the spritesheet what contains the icons you need ( interface.svg or coins.sv
 ```
 
 
+
+Use with React
+----
+
+```JSX
+const url = 'fusion-coins.svg';
+
+const Icon = (props) => (
+  <svg viewBox='0 0 64 64' className={`fusion`}>
+    <use xlinkHref={`${url}#${props.fusion}`} />
+  </svg>
+);
+
+ReactDOM.render(
+  <div class="icons">
+    <Icon fusion='ABBC_3437' />
+    <Icon fusion='ADA_2010' />
+    <Icon fusion='ADK_1706' />
+  </div>,
+  document.getElementById('app'));
+```
+
+
+
 Use with ReactTypescript
 ----
 
