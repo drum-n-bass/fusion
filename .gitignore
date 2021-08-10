@@ -1,2 +1,9 @@
 .DS_Store
 config.codekit3
+node_modules/*
+vue/coins/
+vue/interface/
+vue/web3/
+react/coins/
+react/interface/
+react/web3/
