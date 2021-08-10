@@ -1,0 +1,24 @@
+{
+    "name": "@fusion-icons/react",
+    "version": "0.0.0",
+    "description": "",
+    "author": "scco",
+    "license": "Apache-2.0",
+    "keywords": [],
+    "homepage": "https://github.com/scco/fusion#readme",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/scco/fusion.git"
+    },
+    "files": [
+      "coins",
+      "interface",
+      "web3"
+    ],
+    "publishConfig": {
+      "access": "public"
+    },
+    "peerDependencies": {
+      "react": ">= 16"
+    }
+  }
