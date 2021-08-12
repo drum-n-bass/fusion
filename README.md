@@ -74,7 +74,6 @@ ReactDOM.render(
 ```
 
 
-
 Use with ReactTypescript
 ----
 
