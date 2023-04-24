@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+
+<symbol id="arkane" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><rect x="8" y="8" width="48" height="48" rx="4"/><path d="M48 48 35.66 20.22a4 4 0 0 0-7.32 0L16 48"/><path d="M36 32h-8"/></symbol>
+
+<symbol id="authereum" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M23.93 8 12 12v16c0 16 15.91 24 19.94 28C36 52 52 44 52 28V12L40 8"/><path d="m32 44-6-4 6-12 6 12-6 4z"/><path d="M20 32 32 8l12 24"/></symbol>
+
+<symbol id="bitski" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M9.74 35.17 30.56 56"/><path d="M34 24.76a9.81 9.81 0 0 0-13.85-13.88L9.74 21.29 37.5 49.06l13.89-13.89A9.82 9.82 0 1 0 37.5 21.29L23.62 35.17"/></symbol>
+
+<symbol id="borrow" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><polyline points="8 36 16 36 16 52 8 52"/><path d="M16 38h8a4 4 0 0 1 4 4h9a3 3 0 0 1 3 3 3 3 0 0 1-3 3H26"/><path d="m40 44.8 6.63-4a5.82 5.82 0 0 1 3-.82 5.78 5.78 0 0 1 4.09 1.69L56 44 38.07 54.76A8.75 8.75 0 0 1 33.58 56a8.68 8.68 0 0 1-3.06-.56L16 50"/><circle cx="38" cy="22" r="14"/><path d="M36.33 22a3.34 3.34 0 0 1 0-6.67"/><path d="M39.67 22a3.34 3.34 0 0 1 0 6.67"/><line x1="38" y1="12" x2="38" y2="15.33"/><line x1="38" y1="28.67" x2="38" y2="32"/><line x1="36.33" y1="22" x2="39.67" y2="22"/><path d="M43 17s-1.67-1.67-3.33-1.67h-3.34"/><path d="M33 27s1.67 1.67 3.33 1.67h3.34"/></symbol>
+
+<symbol id="burnerwallet" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M32.07 8c2 2.63 3.26 6.65 3.26 12.33a11.66 11.66 0 0 1-22.26 4.87A50.14 50.14 0 0 0 12 36a20 20 0 0 0 40 0c0-20-8.92-28-19.93-28z"/><path d="M48 48h-4a8 8 0 0 1-8-8 8 8 0 0 1 8-8h7.87"/></symbol>
+
+<symbol id="cipher" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><circle cx="32" cy="32" r="24"/><rect x="26.34" y="14.34" width="11.31" height="11.31" rx="2" transform="rotate(45 31.998 19.994)"/><rect x="26.34" y="38.34" width="11.31" height="11.31" rx="2" transform="rotate(45 32.002 44.006)"/><rect x="38.34" y="26.34" width="11.31" height="11.31" rx="2" transform="rotate(45 43.998 31.994)"/><rect x="14.34" y="26.34" width="11.31" height="11.31" rx="2" transform="rotate(45 20.003 32.005)"/></symbol>
+
+<symbol id="coinbase" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><circle cx="32" cy="32" r="24"/><path d="M40.49 40.49a12 12 0 1 1 0-17"/></symbol>
+
+<symbol id="dapper" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M31.67 8.33h.66A23.67 23.67 0 0 1 56 32v13.15a10.52 10.52 0 0 1-10.52 10.52h-27A10.52 10.52 0 0 1 8 45.15V32A23.67 23.67 0 0 1 31.67 8.33z"/><circle cx="22" cy="30" r="6"/><circle cx="42" cy="30" r="6"/><path d="m56 8-4 4"/></symbol>
+
+<symbol id="dcentwallet" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M35.03 26.75v7l-6.06 3.5v-7l6.06-3.5z"/><path d="M52.78 44V20L32 8 11.21 20v24L32 56l20.78-12z"/><path d="M44.12 39V25L32 18l-12.12 7v14L32 46l12.12-7z"/></symbol>
+
+<symbol id="fortmatic" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M56 8H8v48h12V20h36V8z"/><path d="M32 32v12h12v12a12 12 0 0 0 12-12V32z"/></symbol>
+
+<symbol id="frame" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M22.5 22.5h19v19h-19z"/><path d="M12 8h16l4 2h18a4 4 0 0 1 4 4v18l2 4v16a4 4 0 0 1-4 4H36l-4-2H14a4 4 0 0 1-4-4V32l-2-4V12a4 4 0 0 1 4-4z"/></symbol>
+
+<symbol id="hardwarewallet" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M20 24h24v20a12 12 0 0 1-12 12 12 12 0 0 1-12-12V24z"/><circle cx="32" cy="44" r="4"/><polyline points="24 24 24 8 40 8 40 24"/><line x1="29" y1="12" x2="29" y2="16"/><line x1="35" y1="12" x2="35" y2="16"/></symbol>
+
+<symbol id="imtoken" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M55.88 16.21c1.58 21.44-12.2 31.57-24.56 32.65-11.48 1-22.3-6-23.25-16.9-.78-9 4.76-12.77 9.11-13.15s8.23 2.69 8.56 6.43-1.93 5.23-3.49 5.36a2.61 2.61 0 0 1-2.92-2.24c-.12-1.39.41-1.57.28-3-.23-2.61-2.51-2.92-3.76-2.81-1.5.13-4.24 1.89-3.86 6.28s4.63 7.92 10.19 7.44c6-.53 10.18-5.2 10.5-11.76a2.3 2.3 0 0 1 .21-1 2.5 2.5 0 0 1 .23-.39 4.92 4.92 0 0 1 .5-.64c.15-.17.34-.36.55-.56 2.62-2.47 12.06-8.31 21-6.46a.89.89 0 0 1 .71.81"/></symbol>
+
+<symbol id="interest" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><circle cx="16" cy="16" r="8"/><circle cx="48" cy="48" r="8"/><line x1="48" y1="8" x2="16" y2="56"/></symbol>
+
+<symbol id="ledger" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><line x1="8" y1="24" x2="24" y2="24"/><line x1="8" y1="40" x2="56" y2="40"/><line x1="40" y1="40" x2="40" y2="56"/><line x1="24" y1="8" x2="24" y2="56"/><rect x="8" y="8" width="48" height="48" rx="8"/></symbol>
+
+<symbol id="lend" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><circle cx="32" cy="32" r="24"/><circle cx="26" cy="26" r="4"/><circle cx="38" cy="38" r="4"/><line x1="40" y1="20" x2="24" y2="44"/></symbol>
+
+<symbol id="lend2" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><circle cx="26.67" cy="32.67" r="2.67"/><circle cx="37.33" cy="43.33" r="2.67"/><line x1="37.33" y1="30" x2="26.67" y2="46"/><rect x="8" y="24" width="48" height="28"/><line x1="12" y1="18" x2="52" y2="18"/><line x1="16" y1="12" x2="48" y2="12"/></symbol>
+
+<symbol id="leverage" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M28 44.48V32l-2.68-16.11A6.77 6.77 0 0 1 32 8a6.77 6.77 0 0 1 6.68 7.89L36 32v12.51"/><line x1="28" y1="32" x2="36" y2="32"/><path d="M47.48 56a16 16 0 0 0-31 0"/><line x1="8" y1="56" x2="56" y2="56"/></symbol>
+
+<symbol id="liquality" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M48 24c-2.56 0-5.53 1.64-7.86 3.34A13.76 13.76 0 0 1 32 30a13.76 13.76 0 0 1-8.14-2.66C21.53 25.64 18.56 24 16 24a8 8 0 0 0 0 16c2.56 0 5.53-1.64 7.86-3.34A13.76 13.76 0 0 1 32 34a13.76 13.76 0 0 1 8.14 2.66C42.47 38.36 45.44 40 48 40a8 8 0 0 0 0-16z"/></symbol>
+
+<symbol id="metamask" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="m54 26 2 2-4 4 4 12-2 10-12-4-6 4h-8l-6-4-12 4-2-10 4-12-4-4 2-2-2-10 2-8 14 8h16l14-8 2 8-2 10z"/><path d="m40 16-2 8-2 16h-8l-2-16-2-8"/><path d="m28 40-6 10"/><path d="m36 40 6 10"/><path d="M32 48v6"/><path d="m12 32 14-8"/><path d="m38 24 14 8"/><path d="m28 40-10-4"/><path d="m36 40 10-4"/></symbol>
+
+<symbol id="mewwallet" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M27.54 20.86a12 12 0 0 1 15.19 16.5L32 32"/><path d="M21.27 26.64a12 12 0 0 0 15.19 16.5"/><circle cx="32" cy="32" r="24"/></symbol>
+
+<symbol id="niftywallet" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M34.55 12.88 32 10.33a3.6 3.6 0 0 0-5.1 0L9.06 28.18a3.59 3.59 0 0 0 0 5.09 3.59 3.59 0 0 0 5.09 0l20.4-20.39a3.6 3.6 0 0 1 5.1 0l5.1 5.1"/><path d="m9.06 33.27 20.39 20.4a3.6 3.6 0 0 0 5.1 0l20.39-20.4a3.59 3.59 0 0 0 0-5.09l-5.09-5.1"/><path d="M31.995 25.683 42.22 15.46l10.175 10.175L42.17 35.859a7.21 7.21 0 0 1-10.196 0 7.21 7.21 0 0 1 .021-10.176z"/></symbol>
+
+<symbol id="opera" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M45.68 51.72A24.81 24.81 0 0 1 42 52c-12.15 0-22-9-22-20s9.85-20 22-20a24.81 24.81 0 0 1 3.68.28"/><circle cx="32" cy="32" r="24"/><path d="M32 14.19c7.12 3.31 12 10 12 17.81s-4.88 14.5-12 17.81"/></symbol>
+
+<symbol id="pool" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M37.33 34.67a5.33 5.33 0 0 1-10.66 0C26.67 29.33 32 24 32 24s5.33 5.33 5.33 10.67z"/><path d="M36 52h-8C16 52 8 44 8 32s8-20 20-20h8c12 0 20 8 20 20s-8 20-20 20z"/></symbol>
+
+<symbol id="pool2" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><line x1="20" y1="28" x2="20" y2="36"/><line x1="44" y1="28" x2="44" y2="36"/><line x1="36" y1="28" x2="36" y2="36"/><line x1="28" y1="28" x2="28" y2="36"/><path d="M36 52h-8C16 52 8 44 8 32s8-20 20-20h8c12 0 20 8 20 20s-8 20-20 20z"/></symbol>
+
+<symbol id="portfolio" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="m26.5 36-13.1-.81a4 4 0 0 1-3.76-3.58L8.47 20.42a4 4 0 0 1 4-4.42h39.09a4 4 0 0 1 4 4.42l-1.2 11.19a4 4 0 0 1-3.76 3.58L37.5 36"/><path d="M52 34.92V48a4 4 0 0 1-4 4H16a4 4 0 0 1-4-4V34.85"/><path d="M27 16v-2a2 2 0 0 1 2-2h6a2 2 0 0 1 2 2v2"/><rect x="26.5" y="33.25" width="11" height="5.5" rx="2.75"/></symbol>
+
+<symbol id="portfolio2" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><polygon points="54 48 10 48 8 22 56 22 54 48"/><polyline points="12 22 12 12 22 12 26 16 52 16 52 22"/></symbol>
+
+<symbol id="portis" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M19.74 29.25 32 24l12.26 5.25"/><path d="M45.88 32.07a16 16 0 1 1-27.76 0L32 8z"/><path d="M17.7 32.85 32 40l14.3-7.15"/><path d="M24 53.86A16 16 0 0 0 32 40a16 16 0 0 0 8 13.86"/><path d="M32 8v32"/></symbol>
+
+<symbol id="safe" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><circle cx="32" cy="32" r="24"/><circle cx="32" cy="32" r="6"/><path d="M50 32H38"/></symbol>
+
+<symbol id="smartcontract" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><rect x="14" y="8" width="36" height="48"/><line x1="22" y1="20" x2="42" y2="20"/><line x1="22" y1="44" x2="42" y2="44"/><line x1="22" y1="32" x2="42" y2="32"/><line x1="14" y1="12" x2="8" y2="12"/><line x1="14" y1="32" x2="8" y2="32"/><line x1="14" y1="52" x2="8" y2="52"/><line x1="56" y1="52" x2="50" y2="52"/><line x1="56" y1="32" x2="50" y2="32"/><line x1="56" y1="12" x2="50" y2="12"/></symbol>
+
+<symbol id="squarelink" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M8 8h40a8 8 0 0 1 8 8v32a8 8 0 0 1-8 8H16a8 8 0 0 1-8-8V8z"/><path d="M24 8v28a4 4 0 0 1-4 4H8"/><path d="M40 56V28a4 4 0 0 1 4-4h12"/></symbol>
+
+<symbol id="status" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M24.81 32.62c-3 .58-5.32 2.27-5.12 5.66s3.88 5.57 7.56 5.38c6-.33 10.39-5.32 10.89-11.15"/><path d="M32.14 32.45a27 27 0 0 0 4.67.2c4.82-.27 7.74-2.74 7.53-6.44s-4.09-6.08-8-5.86c-6.33.35-11 5.91-11.52 12.27a15.45 15.45 0 0 1 2.62-.37 27 27 0 0 1 4.67.2z"/><circle cx="32" cy="32" r="24"/></symbol>
+
+<symbol id="swap" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><polyline points="32 24 40 24 40 16 56 28 40 40 40 32 24 32 24 24 8 36 24 48 24 40 32 40"/></symbol>
+
+<symbol id="swap2" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M32 18.16a16 16 0 1 0 0 27.68"/><circle cx="40" cy="32" r="16"/><line x1="16" y1="32" x2="44" y2="32"/><polyline points="36 40 44 32 36 24"/></symbol>
+
+<symbol id="swap8" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><polyline points="56 32.17 44 44.17 20 20.17 8 32.17"/><line x1="44" y1="8.17" x2="44" y2="44.17"/><line x1="20" y1="56.17" x2="20" y2="20.17"/></symbol>
+
+<symbol id="tokenary" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><circle cx="32" cy="32" r="24"/></symbol>
+
+<symbol id="torus" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M34.67 8v48H20.44V22.22H8V8h26.67z"/><path d="M48.89 22.22a7.11 7.11 0 1 0-7.11-7.11 7.11 7.11 0 0 0 7.11 7.11z"/></symbol>
+
+<symbol id="trezor" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M24.71 25.82 16 28v20l16 8 16-8V28l-8.71-2.18a30.22 30.22 0 0 0-14.58 0z"/><path d="M20 27v-7a12 12 0 0 1 24 0v7"/></symbol>
+
+<symbol id="trust" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M32 8c8.1 6.77 17.39 6.35 20.05 6.35C51.46 52.84 47 45.21 32 56c-15-10.79-19.45-3.16-20-41.65 2.59 0 11.88.42 20-6.35z"/></symbol>
+
+<symbol id="vote" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><polyline points="16 40 8 40 8 56 56 56 56 40 48 40"/><polyline points="52 28 56 32 40 48"/><polyline points="24 48 8 32 32 8 44 20"/><line x1="16" y1="48" x2="48" y2="48"/><polyline points="56 16 32 40 24 32"/></symbol>
+
+<symbol id="vote2" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="m52 28 4 4-24 24L8 32 32 8l12 12"/><polyline points="56 16 32 40 24 32"/></symbol>
+
+<symbol id="wallet" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M52 20v-4a4 4 0 0 0-4-4H12a4 4 0 0 0-4 4v32a4 4 0 0 0 4 4h36a4 4 0 0 0 4-4v-4"/><path d="M36 20h18a2 2 0 0 1 2 2v20a2 2 0 0 1-2 2H36a12 12 0 0 1-12-12 12 12 0 0 1 12-12z"/><circle cx="36" cy="32" r="4"/></symbol>
+
+<symbol id="wallet2" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M44 20V8H14a6 6 0 0 0 0 12h42v36H8V14"/><line x1="48" y1="32" x2="48" y2="44"/></symbol>
+
+<symbol id="wallet3" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M52 26V16a4 4 0 0 0-4-4H12a4 4 0 0 0-4 4v32a4 4 0 0 0 4 4h36a4 4 0 0 0 4-4V38"/><rect x="48" y="26" width="8" height="12"/></symbol>
+
+<symbol id="walletconnect" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="m44 34-6 6-6-6-6 6-6-6"/><path d="M23.51 27.51a12 12 0 0 1 17 0"/><circle cx="32" cy="32" r="24"/></symbol>
+
+
+
+</svg>
