@@ -192,7 +192,7 @@
 
 <symbol id="MANA_1966" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><circle cx="32" cy="32" r="24"/><path d="M33 41.84H10.1"/><path d="m10.11 41.84 12.96-17.58L34.6 39.92"/><path d="m51.2 46.4-11-13.2-11 13.2h22"/><path d="M12.8 46.4h16.4"/><path d="M40.2 33.2v13.2"/><path d="M23.07 24.26v17.58"/><circle cx="40.2" cy="23.6" r="6"/><circle cx="25" cy="17" r="3"/></symbol>
 
-<symbol id="MATIC_3890" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M40 20v28l8 4 8-4V20l-8-4-8 4z"/><path d="M40 28 16 16l-8 4v28l8 4 8-4V36"/><path d="m56 20-8 4-8-4"/><path d="M48 52V24"/><path d="M16 52V32l16 8 8-4"/><path d="m40 28-8 4L8 20"/><path d="M32 32v8"/></symbol>
+<symbol id="MATIC_3890" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><polyline points="38 37.45 44 41.09 56 33.82 56 19.27 44 12 32 19.27 32 44.73 20 52 8 44.73 8 30.18 20 22.91 26 26.55"/></symbol>
 
 <symbol id="MCO_1776" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M44 11.21H20L8 32l12 20.78h24L56 32z"/><path d="M31.98 23.95h-8.62l1.6-6.04h13.99l1.69 6.04h-8.66z"/><path d="m29.39 31.89-1.32-3.41h7.86l-1.3 3.41.39 3.83h-3.04l-2.99.01.4-3.84z"/><path d="M35.67 44.07v-1.29l2.84-2.73v-4.31l3.73-2.43 4.26 3.21-5.79 10.08h-2.29l-2.75-2.53z"/><path d="m17.5 36.49 4.27-3.18 3.77 2.4v4.31l2.85 2.73v1.29l-2.75 2.56h-2.32L17.5 36.49z"/></symbol>
 
