@@ -20,8 +20,6 @@
 
 <symbol id="ANT_1680" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M56 24c-4 24-24 30-24 30S12 48 8 24c8-8 24-14 24-14s16 6 24 14z"/><path d="M15.62 42a15.79 15.79 0 0 1-1.85-7 14.89 14.89 0 0 1 14.16-15.06h.57l-1.87-1.88s7.55-1.27 17.25 4.62a2.33 2.33 0 0 1 0 1.18s4.56 2 4.95 5.83-2 6.05-4 6.36a1.67 1.67 0 0 0-.55-2.43 2.06 2.06 0 0 0-1.11-.25c-3 0-3.33 3.42-3.33 3.42a2.27 2.27 0 0 0 0 .52s-.55 5 8.33 4.92"/><path d="M34.78 25.65A5.21 5.21 0 0 0 38 27.54"/></symbol>
 
-<symbol id="APE_18876" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M42.26 29.78C43.36 31.59 44 33.72 44 36s-.77 4.83-2.08 6.76"/><circle cx="32" cy="36" r="4"/><path d="M35.43 38.06 49.15 48v8H32c-11.05 0-20-8.95-20-20s8.95-20 20-20c7.28 0 13.65 3.89 17.15 9.71l-13.72 8.23"/><line x1="32" y1="8" x2="32" y2="16"/><line x1="24" y1="8" x2="24" y2="28"/></symbol>
-
 <symbol id="ARDR_1320" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M37.13 42.93 20 52H8l24-40 6 10-18 30"/><path d="m30.37 34.71 11.93-5.54L56 52H44.58L30.37 34.71"/></symbol>
 
 <symbol id="ARK_1586" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M32 27 8 52l24-40 24 40-24-25z"/><path d="M23.36 36h17.28"/></symbol>
@@ -149,6 +147,8 @@
 <symbol id="GRIN_3709" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="m29.19 29.31-2.15-7.26-2.85 6.92-2.85-7.56-2.84 10"/><path d="m34.5 21.5 2.15 7.26 2.85-6.92 2.84 7.57 2.85-10"/><circle cx="32" cy="32" r="24"/><path d="M16.23 36a16.27 16.27 0 0 0 31.54 0l-5.39.75"/></symbol>
 
 <symbol id="GRT_6719" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><circle cx="32" cy="32" r="24"/><circle cx="32" cy="30" r="8"/><circle cx="44" cy="20" r="2"/><path d="m40 40-8 8"/></symbol>
+
+<symbol id="GTC_10052" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M42.26 29.78C43.36 31.59 44 33.72 44 36s-.77 4.83-2.08 6.76"/><circle cx="32" cy="36" r="4"/><path d="M35.43 38.06 49.15 48v8H32c-11.05 0-20-8.95-20-20s8.95-20 20-20c7.28 0 13.65 3.89 17.15 9.71l-13.72 8.23"/><line x1="32" y1="8" x2="32" y2="16"/><line x1="24" y1="8" x2="24" y2="28"/></symbol>
 
 <symbol id="GT_4269" preserveAspectRatio="xMidYMid meet" width="100%" height="100%" viewBox="0 0 64 64" fill="none" stroke="currentColor"><path d="M52 20 34.57 9.54a5 5 0 0 0-5.14 0L12 20v21.16a5 5 0 0 0 2.43 4.3L32 56l17.57-10.54a5 5 0 0 0 2.43-4.3V30"/><path d="m40 36 16-8"/></symbol>
 
